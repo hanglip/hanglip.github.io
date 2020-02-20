@@ -6,7 +6,7 @@
 (define/contract (init)
   (-> any)
   (current-scheme/host "http://www.hanglipcore.net")
-  (current-title "Hanglip Core Farm")
+  (current-title "Hanglip")
   (current-author "Maeder Osler"))
 
 ;; Called once per post and non-post page, on the contents.
