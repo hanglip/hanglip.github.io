@@ -7,7 +7,7 @@
   (-> any)
   (current-scheme/host "http://www.hanglipcore.net")
   (current-title "Hanglip Core Farm")
-  (current-author "Jasper Cook"))
+  (current-author "Maeder Osler"))
 
 ;; Called once per post and non-post page, on the contents.
 (define/contract (enhance-body xs)
