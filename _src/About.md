@@ -1,13 +1,14 @@
 # Sm Osler:
 *initial draft on the ***Oorlogspoort stream, Hanglip farm****
 
-![Hanglip Old Lands from above](/img/HanglipCoreArea.jpg)
+![Hanglip from above](/img/Hanglip.jpg)
 
 ## Introduction
 
 From central South to North East, flowing northwards, the Oorlogspoort stream is the main drain also within and on the edge of the farm Hanglip. On both its western and eastern banks, the stream gathers the erosions from high grounds on  both sides. This includes some of the subsidiary drainage patterns, which in all  cases also land up in the Oorlogspoort stream drain. It is probably that this was the main movement area for plants, game and humans down the ages, and likely that this also reflects the soil erosion patterns on the farm.
 
 <!-- more -->
+![Hanglip Old Lands from above](/img/HanglipCoreArea.jpg)
 
 The stream as a whole would be seen as a special riverine area, in need of biodiversity protection into the future. This is probably also the reason behind the state’s interventions during the mid to late 1950’s in the construction of cement erosion weirs. On oral evidence the valley through which the stream flowed was in former years badly eroded. The central state weir is on Hanglip at the edge of its Rivercamp, a 2nd weir at Sukkelweir (on the edge of Hanglip’s Sukkelweir camp), and a final weir at the north end of the property and against the adjoining Potfontein  and Vergelegen farms.
 
