@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
- <title type="text">Hanglip Core Farm: Hanglip Core Farm</title>
+ <title type="text">Hanglip: Hanglip</title>
  <link rel="self" href="http://www.hanglipcore.net/feeds\all.atom.xml" />
  <link href="http://www.hanglipcore.net/index.html" />
  <id>urn:http-www-hanglipcore-net:-index-html</id>
- <updated>2020-02-20T15:51:57Z</updated>
+ <updated>2020-02-22T11:14:06Z</updated>
+ <entry>
+  <title type="text">Cecily Herbert Poem</title>
+  <link rel="alternate" href="http://www.hanglipcore.net/2020\02\cecily-herbert-poem.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-www-hanglipcore-net:-2020-02-cecily-herbert-poem-html</id>
+  <published>2020-02-22T11:14:06Z</published>
+  <updated>2020-02-22T11:14:06Z</updated>
+  <author>
+   <name>Maeder Osler</name></author>
+  <content type="html">
+&lt;p&gt;Came across this poem:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Everything changes. We plant  
+
+trees for those born later  
+
+but what’s happened has happened,  
+
+and poisons poured into the seas  
+
+cannot be drained out again.  
+
+
+
+What’s happened has happened.  
+
+Poisons poured into the seas  
+
+cannot be drained out again, but  
+
+everything changes. We plant  
+
+trees for those born later.  &lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Cecily Herbert.&lt;/p&gt;&lt;a href="http://www.hanglipcore.net/2020\02\cecily-herbert-poem.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
  <entry>
   <title type="text">RiversideWalk</title>
   <link rel="alternate" href="http://www.hanglipcore.net/2020\02\riversidewalk.html?utm_source=all&amp;utm_medium=Atom" />
@@ -12,7 +46,7 @@
   <published>2020-02-20T15:51:57Z</published>
   <updated>2020-02-20T15:51:57Z</updated>
   <author>
-   <name>Jasper Cook</name></author>
+   <name>Maeder Osler</name></author>
   <content type="html">
 &lt;h2 id="a-mindmemory-walk-down-the-riversides"&gt;A mind/memory walk down the riversides:&lt;/h2&gt;
 
@@ -28,7 +62,7 @@
   <published>2020-02-14T15:34:54Z</published>
   <updated>2020-02-14T15:34:54Z</updated>
   <author>
-   <name>Jasper Cook</name></author>
+   <name>Maeder Osler</name></author>
   <content type="html">
 &lt;h4 id="we-have-a-year"&gt;WE HAVE A YEAR&lt;/h4&gt;
 
@@ -40,7 +74,7 @@
   <published>2020-02-05T17:00:05Z</published>
   <updated>2020-02-05T17:00:05Z</updated>
   <author>
-   <name>Jasper Cook</name></author>
+   <name>Maeder Osler</name></author>
   <content type="html">
 &lt;p&gt;Hanglip core farm consists the farm buildings surrounded by about 20 Ha of old crop lands.&lt;/p&gt;
 
