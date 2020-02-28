@@ -10,6 +10,8 @@
 
 1. CONSIDER legal aspects for future protection iro the family Trust
 
+<!-- more -->
+
 1. OUTLINE scope or scale e.g. Limit to Old Land Restoration?
 
 1. DESIGN Monitoring & Reward (If any)
@@ -18,6 +20,4 @@
 
 1. Concerned solely with endeavours resulting in permanent trend/result within timeframe
 
-
-<!-- more -->
 
