@@ -10,7 +10,7 @@
 
 1. SET different Associate involvement styles & levels
 
-   Staff associates, Friend associates, Fanmily associates ...
+...Staff associates, Friend associates, Fanmily associates ...
 
 1. CONSIDER legal aspects for future protection iro the family Trust
 
@@ -31,5 +31,6 @@
 1. Concerned solely with endeavours resulting in permanent trend/result within timeframe
 
    Can we be open minded about other aims?
+
 
 
