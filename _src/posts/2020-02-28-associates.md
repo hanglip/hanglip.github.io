@@ -8,7 +8,8 @@
 
 <!-- more -->
 
-1. SET different Associate involvement styles & levels
+1. SET different Associate involvement styles & levels  
+
     Staff associates, Friend associates, Fanmily associates ...
 
 1. CONSIDER legal aspects for future protection iro the family Trust
