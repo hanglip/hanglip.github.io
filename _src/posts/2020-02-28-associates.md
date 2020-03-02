@@ -12,7 +12,7 @@
 
     - Staff associates
     - Friend associates
-    - Fanmily associates  
+    - Family associates  
 
 1. CONSIDER legal aspects for future protection iro the family Trust
 
