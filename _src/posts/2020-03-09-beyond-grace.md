@@ -11,5 +11,5 @@ I revere old, simple ways of doing things. As our mad “economic” drive for g
 
 This farm hosts ancient rock art. To look at them, and if one puts oneself into the artists’ skins, it’s plain they worked in a time and place without fear.  Even today, the finest available technique is unlikely to produce engravings with the grace, texture and line found on these Karoo rocks. Open to the sky as they are, there surely could have been no fear or uneasiness in their fashioning, no enemies lurking, no bosses.  The mandate was their own, just to make their image as true and beautiful as they could.
 
-This is unknown to us today. There is always something to worry about, some concern or other, so complexity or “gotcha”, some pressure. We have no chance of emulating or replicating such grace unless the world changes greatly.
+This is unknown to us today. There is always something to worry about, some concern or other, some complexity or “gotcha”, some pressure. We have no chance of emulating or replicating such grace unless the world changes greatly.
 
