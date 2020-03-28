@@ -18,19 +18,21 @@
 16.	Promote **peaceful and inclusive** societies for **sustainable development**, provide **access to justice** for all and build effective, accountable and inclusive **institutions** at all levels
 17.	Strengthen the **means of implementation** and **revitalize the global partnership** for sustainable development
 
-# How Hanglip fares with Sustainable Development Goals
+# How Hanglip fares with Sustainable Development Goals:  
+
+
 
 ## End Poverty
 
-We comply in terms of remuneration. The Dept is only interested in us meeting the National Minimum Wage, which we usually do better than. Maeder has developed a methodology around remuneration over the years, the aim (and resulst) of which is to reward and retain people who we admire and want working here.
+We comply in terms of remuneration. The Dept is only interested in us meeting the National Minimum Wage, which we exceed. Maeder Osler developed a methodology around remuneration over the years, the aim (and result) being to reward and retain people who we admire and want to continue their work here.
 
 ## End Hunger
 
 We aren't aware of anyone going hungry here. In spring, the farm provides seed, and most staff plant and cultivate a variety of vegetables in their allotments. Staff pay a nominal amount monthly for meat and milk allowances.
 
-Our livestock don't go hungry either. We have not needed to feed animals during recent droughts. They find enough for their needs in the veld.  Closer to the homestead, we have good results growing sprouted barley. This has proved palatable to all but one of our hard working horses, and was taken hungrily by our laying chickens, geese and the lone turkey, and pigs.
+Our livestock don't go hungry either. We have not needed to feed animals during recent droughts. They find enough for their needs in the veld.  Closer to the homestead, we have good results growing sprouted barley. This has proved palatable to all but one of our hard working horses, and was taken hungrily by our laying chickens, geese, turkey and pigs.
 
-As part of plans to regenerate worked out old croplands, we intend planting some fruit trees. Peaches grow well in Colesberg itself, but Hanglip's ecosystem is colder than the dorp, and not all trees survive the frosts. Our lowest recorded temperature in Winter 2019 was minus 14 degrees Celsius!
+As part of plans to regenerate worked out old croplands, we intend planting some fruit trees. Peaches grow well in Colesberg itself, but Hanglip's ecosystem is colder than the dorp, and not all trees survive the frosts. Our lowest recorded temperature in Winter 2019 was minus 14 degrees Celsius! Pehaps global warming may change this, so that in time, some trees will survive frost in the coming decades, or ... will there be _no frost_?
 
 ## Healthy Lives
 
