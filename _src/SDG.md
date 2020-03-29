@@ -44,4 +44,38 @@ As above, we are fortunate to be close to the Hantam Community Education Trust s
 
 Jasper has recycled an old tower PC into a "Linux Box", serving currently as a Typing Tutor. Our experience is that simply learning touch typing leads to greater computer literacy. People who can't type are easily frustrated on a PC.
 
+## Gender Equality
+
+We know that role playing patterns are established early in life. In hoildays, girls arrive at the Groothuis, wanting to do chores for holiday mnoney. Boys' holiday money comes from teaching horseriding, maybe gathering firewood. It appears these roles stem from parents, and we tend to go along with them, so as not to rock the family boats!  
+
+We noted also, on arrival of our graduates, that the two female graduates do not ride horses. They certainly did not flinch when asked to do work on fences, and mucked in willingly with every conceivable farm work task thrown at them, but evidently horseriding is for men only! Well, we continue to encourage everyone to do whatever they feel like doing, and are happy if women hit the trail to fetch sheep and cattle. It just doesn't happen. Yet. Nothing to do with us. When we had a braaivleis, it was a male graduate who prepared the "roosterbrood", not a female!  
+
+Jasper has helped pupils with school maths.  Two girls and one boy, from different grades were helped. We try to meet needs, will always encourage people to do and achieve what they wish, regardless of gender, but maybe we need to consult staff families more about this.
+
+## Water and Sanitation
+
+As the world gets more aware of issues around water and sanitation, so we mull over options to do with both. 
+
+## Water
+
+Availibility of water in the Karoo has, since the arrival of the windmill, been energy-related. For example, windmills pump only when there is wind, solar panel powered submersible pumps work only during daylight. The natural cadences of wind and sunlight tend to "rest" a borehole, as against an Escom-powered pump, which unless it has a timer, will pump continuously, day and night (as long as there is electricity), sometimes drying a borehole up. This feels like a bad thing.
+
+Apart from availibity, there is the matter of how we use water. We know what large and small livestock water needs are, and the larger farm is an extensive network of pump-fed reservoirs supplying water to the livestock camps gravitationally from high points.
+
+One has to assess whether growing crops will strain water resources: we can't, for example grow crops if takes water away from livestock.
+
+With droughts, through the years, it was perhaps natural that we retreated from crop growing. Sometimes, it was not to do with water supply, but simply not totally ideal.  For example, lucerne was grown for years, but that particular crop, grown on this farm, caused bloat in the animals. Many other crops were grown, but crop growing in the Karoo doesn't happen without some form of irrigation, and that comes with problems for the soil, whether compaction (flood irrigation) or build-up of salts (sprinkler or pivot irrigation). When it comes to growing for the markets, we are from them, so what we grew was more necessarily for our own needs, since we could not cope with farmers nearer to main markets. 
+
+Then again, accountants work from a financial bias, and their advice was that buying from specialist, large scale grain farmers was more feasible and cheaper than growing our own. Thus, the trend to gigantism and agro business began and has increased through the years. 
+The advice is to increase income by acquiring more farms. It has its own truth, but agri-business as opposed to plain old farming, appears to us more as "farming without a human face", and we only once dabbled with leasing another farm.
+
+We have experimted with growing sprouted barley fodder, and proved to our satisfaction that we can drought-proof our livestock when necessary that way, in place of planting and irrigating crop lands. 
+
+## Sanitation
+
+This is a daunting question. The old flush toilet (3 gallon "Darnley rush") gets a bad rap nowadays. We have looked at replacing our flush toilets and septic tanks, but have that retro-fitting will be an impossibly expensive process. All alternatives involve extensive buildin alterations, whether to accommodate new "green" style toilets, or to build whole new outbuldings to accommodate them. We haven't come to any decisions yet on this.
+
+
+
+
 
