@@ -46,7 +46,7 @@ Jasper has recycled an old tower PC into a "Linux Box", serving currently as a T
 
 ## Gender Equality
 
-We know that role playing patterns are established early in life. In hoildays, girls arrive at the Groothuis, wanting to do chores for holiday mnoney. Boys' holiday money comes from teaching horseriding, maybe gathering firewood. It appears these roles stem from parents, and we tend to go along with them, so as not to rock the family boats!  
+We know that role playing patterns are established early in life. In holidays, girls arrive at the Groothuis, wanting to do chores for holiday mnoney. Boys' holiday money comes from teaching horseriding, maybe gathering firewood. It appears these roles stem from parents, or just from 'tradition' and we tend to go along with them, so as not to rock family boats!  
 
 We noted also, on arrival of our graduates, that the two female graduates do not ride horses. They certainly did not flinch when asked to do work on fences, and mucked in willingly with every conceivable farm work task thrown at them, but evidently horseriding is for men only! Well, we continue to encourage everyone to do whatever they feel like doing, and are happy if women hit the trail to fetch sheep and cattle. It just doesn't happen. Yet. Nothing to do with us. When we had a braaivleis, it was a male graduate who prepared the "roosterbrood", not a female!  
 
@@ -54,27 +54,44 @@ Jasper has helped pupils with school maths.  Two girls and one boy, from differe
 
 ## Water and Sanitation
 
-As the world gets more aware of issues around water and sanitation, so we mull over options to do with both. 
+As the world gets more aware of issues around water and sanitation, so we mull over options around both. 
 
 ## Water
 
-Availibility of water in the Karoo has, since the arrival of the windmill, been energy-related. For example, windmills pump only when there is wind, solar panel powered submersible pumps work only during daylight. The natural cadences of wind and sunlight tend to "rest" a borehole, as against an Escom-powered pump, which unless it has a timer, will pump continuously, day and night (as long as there is electricity), sometimes drying a borehole up. This feels like a bad thing.
+Availibility of water in the Karoo has, since the arrival of the windmill, been energy-related. For example, windmills pump only when there is wind, solar panel powered submersible pumps work only during daylight. The natural cadences of wind and sunlight tend to "rest" a borehole, as against an Escom-powered pump, which, unless it has a timer, will pump continuously, day and night (as long as there is electricity), sometimes drying a borehole up. This feels like a bad thing.
 
-Apart from availibity, there is the matter of how we use water. We know what large and small livestock water needs are, and the larger farm is an extensive network of pump-fed reservoirs supplying water to the livestock camps gravitationally from high points.
+Apart from availibity, there is the matter of how we **use** water. We know what large and small livestock water needs are, and the larger farm is an extensive network of pump-fed reservoirs supplying water to the livestock camps gravitationally from high points.
 
 One has to assess whether growing crops will strain water resources: we can't, for example grow crops if takes water away from livestock.
 
-With droughts, through the years, it was perhaps natural that we retreated from crop growing. Sometimes, it was not to do with water supply, but simply not totally ideal.  For example, lucerne was grown for years, but that particular crop, grown on this farm, caused bloat in the animals. Many other crops were grown, but crop growing in the Karoo doesn't happen without some form of irrigation, and that comes with problems for the soil, whether compaction (flood irrigation) or build-up of salts (sprinkler or pivot irrigation). When it comes to growing for the markets, we are from them, so what we grew was more necessarily for our own needs, since we could not cope with farmers nearer to main markets. 
+With droughts, through the years, it was perhaps natural that we retreated from crop growing. Sometimes, it was not to do with water supply, but simply that results were not totally ideal.  For example, lucerne was grown for years, but that particular crop, grown on this particular farm, caused bloat in the animals. Many other crops were grown, but crop growing in the Karoo doesn't happen without some form of irrigation, and that comes with problems for the soil, whether compaction (flood irrigation) or build-up of salts (sprinkler or pivot irrigation). When it comes to growing for the markets, we are far from them, so what we grew was for our own needs, since we could not compete with farmers who are nearer to main markets. 
 
-Then again, accountants work from a financial bias, and their advice was that buying from specialist, large scale grain farmers was more feasible and cheaper than growing our own. Thus, the trend to gigantism and agro business began and has increased through the years. 
-The advice is to increase income by acquiring more farms. It has its own truth, but agri-business as opposed to plain old farming, appears to us more as "farming without a human face", and we only once dabbled with leasing another farm.
+Then again, accountants work from a financial bias, and their advice was that buying from specialist, large-scale grain farmers was more feasible and cheaper than growing our own. Thus, the trend to gigantism and agri-business began and has increased through the years. 
+The advice is to increase income by acquiring more farms. It has its own truth, but agri-business, compared with plain, old-school farming, appears to us as "farming without a human face", and we only once dabbled with leasing another farm.
 
-We have experimted with growing sprouted barley fodder, and proved to our satisfaction that we can drought-proof our livestock when necessary that way, in place of planting and irrigating crop lands. 
+We have experimented with growing sprouted barley fodder, and proved to our satisfaction that we can drought-proof our livestock when necessary that way, in place of planting and irrigating crop lands. Crop planting demands expensive inputs of diesel, soil treatments and labour. At the end of a growing season, there is a pile of grain and some stover for the livestock to graze, but they wait for four months for it. Sprouted seeds take a week, and the inputs of water (very little) and labour (half an hour per day) are minimal.
 
 ## Sanitation
 
 This is a daunting question. The old flush toilet (3 gallon "Darnley rush") gets a bad rap nowadays. We have looked at replacing our flush toilets and septic tanks, but have that retro-fitting will be an impossibly expensive process. All alternatives involve extensive buildin alterations, whether to accommodate new "green" style toilets, or to build whole new outbuldings to accommodate them. We haven't come to any decisions yet on this.
 
+### Refuse
+
+We have several families living in the staff village, and some seasonal accommodation to provide for shearers in shearing season, so we need to extend our efforts in terms of waste disposal. We believe that "what comes from the dorp" (tin, glass, plastic) should "return to the dorp", where there are recycling facilities, though those wheels appear to grind slowly. 
+
+## Energy
+
+We touched on energy above in the section of water. Currently Escom electricity for the entire farm is a major expense, and we are looking at ways to generate our own. The challenge with solar, although prices continue to drop, is that one pays a lot of money upfront for panels and batteries. Five years ago the pay back period would be 20 years, but we believe that panels and battery storage will pay for itself in shorter periods in future. Still, it's a big financial hit. We are still considering this.
+
+This (human settlement energy) overlaps with the section on Human Settlements below.
+
+Probably the biggest cost item, especially in winter, is hot water geysers. Solar water heating units suited to our temperature and climate extremes are not cheap, and we would appreciate people sharing experience about these, since the going 'urban legend' is that these don't really work all that well. We still need convincing it is worth installing them.
+
+Winter space heating is another issue. There is plenty of dead wood to be found on the farm, but it's impossible to say how long that will be true, and then there is the smoke ...
+
+Electricity heaters are exensive to use. Some dwellings have "chip geysers", wood fired boilers, and at least one house fires them up round the clock to provide some space warmth through our freezing winter nights, with a bonus of hot water for kitchen and bathroom.
+
+All of our human settlements were built "like we always did it", which in SA means no attention is paid to passibe heating and cooling, with neither double glazing nor roof insulation. We build cheap, then pay and pay and pay! 
 
 
 
