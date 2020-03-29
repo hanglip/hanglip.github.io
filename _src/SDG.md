@@ -91,7 +91,7 @@ Winter space heating is another issue. There is plenty of dead wood to be found 
 
 Electricity heaters are exensive to use. Some dwellings have "chip geysers", wood fired boilers, and at least one house fires them up round the clock to provide some space warmth through our freezing winter nights, with a bonus of hot water for kitchen and bathroom.
 
-All of our human settlements were built "like we always did it", which in SA means no attention is paid to passibe heating and cooling, with neither double glazing nor roof insulation. We build cheap, then pay and pay and pay! 
+All of our human settlements were built "like we always did it", which in SA means no attention is paid to passive heating and cooling, with neither double glazing nor roof insulation. We build cheap, then pay and pay and pay! 
 
 
 
