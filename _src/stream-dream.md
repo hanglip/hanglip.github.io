@@ -11,10 +11,6 @@ For us, it's a fulcrum, if you like, with two main components to it uppermost in
 - pre- and modern (Boer War) history.
 - promise for a future conservancy
 
-### Pre-history and History
-
-(history text goes here)
-
 ### Conservancy
 
 (conservancy text goes here)
