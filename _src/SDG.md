@@ -123,8 +123,22 @@ Some of our infrastructure is old, and we are soon beginning repairs and upgrade
 
 A livestock farm is not necessarily where one expects to find _industrialisation_ but there are overlaps: Welding, for example, goes beyond repairs so that workers get creative and make useful things. Our Allen Allens knocked together useful refuse collection points using nothing more than wire and fencing standards.
 
+## Inequality
 
+There are ways in which we can never be equal. I could never, ever bat, keep wicket, or field (or even bowl) as well as AB de Villiers. There is always going to be someone who can do some things better than me, and there will likewise always be someone who can't do some things as well as I can. Take Lionel Messi. According to Wikipedia, he is worth US$400 million. Let's say we need to replace him. Can we replace him with 400 footballers earning US1 million each?  It will cost the same, but it doesn't work that way!
 
+However, we are not talking about that type of inequality. What the UN is concerned with are other inequalities. It only takes a few questions to know what they mean:
 
+- do women earn the same as men?
+- how many women CEOs are there compared to men?
+- how many girls start school compared with boys?
 
+The answer in some countries can be quite shocking. A few years ago, the _Washington Post_ ran an article about an all female crew landing a jetliner in their country, Saudi Arabia. But they were not allowed to drive home from the airport, because women there were not allowed to get a driving licence.
 
+At Hanglip we don't make rules about who does what. 
+
+## Cities and Human Settlements
+
+We are a farm, so we'll pass on cities for now, but we do have human settlements, and are considering others. We think we do better than comply with the law when it comes to staff housing. We have currently no plans to build any more dwellings at Hanglip, but we do thin it may a good thing to erect some comfortable seating and shady places along the river. Maybe for campers only, we haven't decided.
+
+The requirements are: _inclusive, safe, resilient and sustainable_. Inclusive means everbody gets to use them, resilient means they will weather storms and winds, and sustainable means they should be neither pollutive, nor hard on the environment, and preferably be made from local materials.
