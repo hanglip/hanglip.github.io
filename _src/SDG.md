@@ -3,7 +3,7 @@
 1.	End **poverty** in all its forms everywhere
 2.	End **hunger**, achieve food security and improved nutrition and promote sustainable agriculture
 3.	Ensure **healthy lives** and promote well-being for all at all ages
-4.	Ensure _inclusive and equitable quality_ **education** and promote _lifelong learning opportunities for all_
+4.	Ensure _inclusive and equitable **quality education** and promote _lifelong learning opportunities for all_
 5.	Achieve **gender equality** and empower _all women and girls_
 6.	Ensure _availability and sustainable management_ of **water** and **sanitation** for all
 7.	Ensure _access_ to _affordable, reliable, sustainable and modern_ **energy** for all
@@ -38,7 +38,7 @@ As part of plans to regenerate worked out old croplands, we intend planting some
 
 Apart from assisting nutritionally as above, we are fortunate to be close to the Hantam Community Education Trust Clinic. During school terms, transport is provided for staff for health care on "clinic days".
 
-## Education
+## Quality Education
 
 As above, we are fortunate to be close to the Hantam Community Education Trust school.  In the current COVID-19 lockdown, plans are afoot to (as safely as possible) provide some "maths help" to pupils. 
 
