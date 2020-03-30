@@ -93,7 +93,7 @@ Electricity heaters are exensive to use. Some dwellings have "chip geysers", woo
 
 All of our human settlements were built "like we always did it", which in SA means no attention is paid to passive heating and cooling, with neither double glazing nor roof insulation. We build cheap, then pay and pay and pay! 
 
-## Economic Growth
+## Economic Growth, Employment, Decent Work
 
 This is a large subject! Economic Growth, as a concept, is getting a bad rap from many quarters, especially from Climate Change activists.
 
@@ -104,5 +104,27 @@ Although our government has recently classified a spaza as a supermarket, most e
 There are points of impact from farms. Buying a tractor, for example, adds to our Gross National Budget. However, since tractors are not manufactured in South Africa, they also swell imports. This has Foreign Exchange effects, not only in terms of the purchase price of the tractor, but of the cost of the imported fuel that it wil use in its lifetime.
 
 Concentrating on Economic Growth as a concept tends to bypass the "little guy".  
+
+Having said all this. The bottom line is that Economic Growth depends on creating surpluses, producing more than we need for ourselves and selling that surplus, whether it is grown (adriculture) or dug out of the ground (mining), or pulled from rivers, lakes or the sea. 
+
+At scale, Hanglip produces wool and meat, but it's possible to do this on a small scale too (small because we don't have limitless water), which we deal with under various SDG categories: empoyment and decent work creation can be the result of regeneration of worked out old croplands.
+
+## Infrastructure, Industrialisation, Innovation
+
+On Hanglip, infrastructure means 
+- buildings
+- water pipes
+- reservoirs
+- roads-
+- fences
+- gates. 
+
+Some of our infrastructure is old, and we are soon beginning repairs and upgrades to (mostly) fences. 
+
+A livestock farm is not necessarily where one expects to find _industrialisation_ but there are overlaps: Welding, for example, goes beyond repairs so that workers get creative and make useful things. Our Allen Allens knocked together useful refuse collection points using nothing more than wire and fencing standards.
+
+
+
+
 
 
