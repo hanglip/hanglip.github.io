@@ -93,6 +93,16 @@ Electricity heaters are exensive to use. Some dwellings have "chip geysers", woo
 
 All of our human settlements were built "like we always did it", which in SA means no attention is paid to passive heating and cooling, with neither double glazing nor roof insulation. We build cheap, then pay and pay and pay! 
 
+## Economic Growth
 
+This is a large subject! Economic Growth, as a concept, is getting a bad rap from many quarters, especially from Climate Change activists.
+
+People tend to forget that Economic Growth is a figment of gigantism more than anything else, and there is nothing "inevitable" about economics. Economics is a human creation.
+
+Although our government has recently classified a spaza as a supermarket, most economic studies ignore them, consigning them to what economists know as the "informal sector". On farms, a lot of what we do is squarely in that informal sector. How do we then contribute to "Economic Growth" on the scale this generally covers? For example, from well before anyone even knew about the concept of Economic Growth, people treated cattle as wealth, yet buying and selling them has a tendency to not find its way into the record books. In most rural areas, it is completely informal, and most of the currency involved is not recorded in any books, nor by any banks.
+
+There are points of impact from farms. Buying a tractor, for example, adds to our Gross National Budget. However, since tractors are not manufactured in South Africa, they also swell imports. This has Foreign Exchange effects, not only in terms of the purchase price of the tractor, but of the cost of the imported fuel that it wil use in its lifetime.
+
+Concentrating on Economic Growth as a concept tends to bypass the "little guy".  
 
 
