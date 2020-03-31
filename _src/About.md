@@ -10,7 +10,12 @@
 
 ### Prehistory
 
-- pic of rock art here!
+![](HanglipRockart_01.jpg)
+
+<img src="HanglipRockart_1.jpg"
+     alt="rock art"
+     style="float: left; margin-right: 10px;" />
+
 
 We know more than we know. When we in the Karoo look at the stars, it is through the eyes of First People. Spirituality here is not something we immediately associate with Inguni or Bantu cutlure. The connection is complete enough between us, the starts and the First Nation, without anything else getting in between.  
 
