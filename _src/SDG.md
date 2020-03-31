@@ -142,3 +142,16 @@ At Hanglip we don't make rules about who does what.
 We are a farm, so we'll pass on cities for now, but we do have human settlements, and are considering others. We think we do better than comply with the law when it comes to staff housing. We have currently no plans to build any more dwellings at Hanglip, but we do thin it may a good thing to erect some comfortable seating and shady places along the river. Maybe for campers only, we haven't decided.
 
 The requirements are: _inclusive, safe, resilient and sustainable_. Inclusive means everbody gets to use them, resilient means they will weather storms and winds, and sustainable means they should be neither pollutive, nor hard on the environment, and preferably be made from local materials.
+
+## Consumption and Production Patterns
+
+## Urgent Action - Climate Change
+
+## Conserve (ocean, seas, marine resources)
+
+##  Terrestrial Ecosystems Strategies
+
+## Peaceful, Inclusive, Just, Sustainable Societies
+
+## Strengthen Means of Implementation
+
