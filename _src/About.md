@@ -9,8 +9,9 @@
 ## SM Osler:
 
 ### Prehistory
-
+Rock art on Hanglip farm
 ![](/img/HanglipRockart_1.jpg?raw=true)
+
 
 
 
@@ -22,5 +23,6 @@ It was Xhabbo, interviewed in the Breakwater Prison by WH Bleek, who articulated
 ### Modern History
 
 ### Boer War
+British soldier near Colesberg, Boer War
 
-- pic of Boer war things here!
+![](/img/BoerWarSoldier.jpg?raw=true)
