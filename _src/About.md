@@ -1,4 +1,4 @@
-### ABOUT THIS BLOG: Note from Jasper
+### ABOUT THIS BLOG: Note from Jasper Cook (creator of this blog)
 
 >Usually, blogs invite readers to comment, with a text area to submit below each blog post for the purpose.  This blog doesn't include that feature, but not because we don't invite responses. We value them, and would prefer them emailed to us on [maedercskaroo@gmail.com].
 
@@ -6,9 +6,9 @@
 
 # About Hanglip
 
-## SM Osler:
+## A Conversation with Maeder Osler and Associates:
 
-### Prehistory
+### History
 Rock art on Hanglip farm
 ![](/img/HanglipRockart_1.jpg?raw=true)
 
