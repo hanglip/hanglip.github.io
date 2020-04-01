@@ -135,7 +135,7 @@ However, we are not talking about that type of inequality. What the UN is concer
 
 The answer in some countries can be quite shocking. A few years ago, the _Washington Post_ ran an article about an all female crew landing a jetliner in their country, Saudi Arabia. But they were not allowed to drive home from the airport, because women there were not allowed to get a driving licence.
 
-At Hanglip we don't make rules about who does what. 
+At Hanglip we don't make rules about which gender does what. 
 
 ## Cities and Human Settlements
 
