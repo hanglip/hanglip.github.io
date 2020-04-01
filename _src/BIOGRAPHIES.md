@@ -1,4 +1,4 @@
-# BRIEF BIOGRAPHIES
+# BIOGRAPHIES
 
 ### MAEDER OSLER
 
@@ -36,14 +36,15 @@ See HCET in the Navigation Bar
 
 >I've "suffered", if you like, all my life from "urban/rural" conflict, and ... rural won! We've all seen farming change so much through the years. 
 
-**Has farming changed?**
+**You say farming has changed?**
+
 >I am influenced by the memory of my grandfather's farm. It was the smallest farm in the district. He was warned that he would not scratch a living from it. In the end, he did quite well enough, because he had the energy and the nous to run a "farm within a farm". 
 
->He kept Jersey and Guernsey milkers, a bit unknown for the Karoo in those days, and grew lucerne to feed them, also baled it for dry times. He sold cream to the Queenstown dairy, skimmed milk was fed to the pigs, a litter of which he grew out and sold yearly, and chickens followed the cows and pigs, providing eggs and meat. Springbok culling also provided meat. The cream and pigs paid most of the bills, and he needed very little from town.
+>He kept Jersey and Guernsey milkers, a bit unknown for the Karoo in those days, and grew lucerne to feed them, also baled it for dry times, built a huge dam to irrigate the lucerne. He sold cream to the Queenstown dairy, skimmed milk was fed to the pigs, a litter of which he grew out and sold yearly, and chickens followed the cows and pigs, providing eggs and meat. Springbok culling also provided meat. The cream and pigs paid most of the bills, and he needed very little from town.
 
 >He couldn't do this today: dropping cream cans with a _laaimeester_ at Noupoort, whom he knew and relied upon to consign it correctly, does not happen today. Rail doesn't serve farmers today, except to carry some machinery and maybe grain, sometimes. It all went onto our roads.
 
-My grandfather's farm was the twenty-seventh farm bought by a wealthy farmer back in the day, and that has become the trend. If you want to earn more, you buy more farms! 
+>My grandfather's farm was the twenty-seventh farm bought by a wealthy farmer back in the day, and that has become the trend. If you want to earn more, you buy more farms! 
 
 
 
