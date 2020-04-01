@@ -2,9 +2,13 @@
 
 ### MAEDER OSLER
 
+Maeder has been in politics, journalism, teaching and farming.
+
 ### LESLEY OSLER
 
-See HCET in the Navigation Bar
+See HCET in the Navigation Bar. 
+
+Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.co.za).
 
 ### JASPER COOK
 
