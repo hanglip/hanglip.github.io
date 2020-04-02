@@ -145,6 +145,8 @@ The requirements are: _inclusive, safe, resilient and sustainable_. Inclusive me
 
 ## Consumption and Production Patterns
 
+As hinted elsewhere, we are concerned about consumption in terms of refuse. We want to implement a system of "what comes from the town, returns to the town", particularly glass, plasics and tin cans. Most times on our inward trips to the dorp, the bakkie is empty, but returns with a load, so ideally we should jack up our recycling efforts and take these (sorted) items and dump them in their respective recycling points in the dorp. Other than goods purchased from town, we make almost no waste, so our production patterns are harmless at this point.
+
 ## Urgent Action - Climate Change
 
 We expect our mean temperatures to rise a little. This may mean that certain trees, shrubs and plants that have not survived frost here in the past may now be viable here.
@@ -153,9 +155,20 @@ Then, since we know that livestock perform better when shade is available, we sh
 
 ## Conserve (ocean, seas, marine resources)
 
+We are far from the sea!
+
 ##  Terrestrial Ecosystems Strategies
+
+We hope to make the riverine setting a gun free area for a start, and maybe even a conservancy going forward.
 
 ## Peaceful, Inclusive, Just, Sustainable Societies
 
+We think education is our best bet working on these.
+
 ## Strengthen Means of Implementation
+
+What does one say about this? If anyone needs to improve implementation, that would be government. Can we help? Do they want our help?
+
+
+
 
