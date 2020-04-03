@@ -20,7 +20,7 @@ Maeder has been in politics, journalism, teaching and farming.
 
 See HCET in the Navigation Bar. 
 
-Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.co.za).
+Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org.za).
 
 ### JASPER COOK
 
