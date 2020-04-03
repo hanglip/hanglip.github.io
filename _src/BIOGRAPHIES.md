@@ -4,6 +4,18 @@
 
 Maeder has been in politics, journalism, teaching and farming.
 
+## What are your major influences in the farming?
+
+>Neil Tainton’s Natal University book **Veld Management in South Africa**, is probably first prize for me. 
+
+>Then there are a host of other researchers in veld, environment and land affairs that I honour and respect very highly. Among these are chiefly Drs Sue Milton and Richard Deane of [Renu Karoo](http://www.renu-karoo.co.za) 
+
+>Dr Cherryl Walker and the teams of researchers around Stellenbosch University. Dr William Beinart of Oxford University. And much work done through the universities of the eastern Cape, Pretoria, Rhodes. In general I admire the work done by many government departments and in the United Nations agencies.
+
+>I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are and John Seymour in Sustainable Agriculture, and Masanobu Fukuoka of **One Straw Revolution** ane Dr EF Schumacher of **Small is Beautiful**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Les, and our four children Mark, Miles, Kath, Ken. 
+
+>And….  
+
 ### LESLEY OSLER
 
 See HCET in the Navigation Bar. 
