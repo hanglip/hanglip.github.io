@@ -64,17 +64,19 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 ## What is your greatest achievement?
 
->Nothing tops my children. They are all great inspirations to me, having made good and happy lives for themselves.
+>**Nothing tops my children**. They are all great inspirations to me, having made good and happy lives for themselves.
 
->Then, a few things stand out, amongst which performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994 grows largest in my recollections.  
+>Then, a few things stand out:
 
->A proud moment was the reinstatement of 14000 workers who had been fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. 
+- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994.  
 
->This came about from another hat I sometimes wear: my IT cap. I am the last person who would consider myself to be an enterprise programmer, having never worked as such. One problem is my deafness, something that would try the patience of fellow programmers, since these days most programming is done in pairs or teams. 
+- A database for labour lawyers  resulting in reinstatement of 14000 workers  fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. This was me wearing another hat: my IT cap. 
 
->Back in the 80s, I taught myself to progam in Turbo Pascal, a programming language that gave many programmers and hackers a start. After making a living free-lancing in Turbo Pascal, and computer (technical) journalism, I was rather thrilled with what we then called the "PC Revolution". I am, as far as I know, the first person to persuade lawyers in Johannesburg to purchase and use micro-computers, resulting in a flurry of case victories that had the apartheid authorities reeling. It was during that time that the SATS case came up.
+- Performing with the African Jazz Pioneers before 300 thousand people in Rome on Workers Day, 1993. The largest crowd I saw before then was 250 thouasand at the Rolling Stones Free Concert in Hyde Park
 
->Eventually, I found work doing niche programming VBA (Visual Basic for Applications), the programming language and environment that comes loaded with Mircrosoft Office. This gave me enough work to keep employed until my retirement from KRS [Khanyisa Real Systems](http://www.krs.co.za) in 2017.
+
+
+
 
 
 
