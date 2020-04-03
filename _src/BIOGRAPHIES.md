@@ -12,7 +12,7 @@ Maeder has been in politics, journalism, teaching and farming.
 
 >Dr Cherryl Walker and the teams of researchers around Stellenbosch University. Dr William Beinart of Oxford University. And much work done through all the universities of South Africa. In general I admire the work done by many government departments and in the United Nations agencies.
 
->I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are and John Seymour in Sustainable Agriculture, and Masanobu Fukuoka of **One Straw Revolution** ane Dr EF Schumacher of **Small is Beautiful**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Les, and our four children Mark, Miles, Kath, Ken. 
+>I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are and John Seymour in Sustainable Agriculture, and Masanobu Fukuoka of **One Straw Revolution** and Dr EF Schumacher of **Small Is Beautiful: A Study of Economics As If People Mattered**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Les, and our four children Mark, Miles, Kath, Ken. 
 
 >And….  
 
@@ -32,13 +32,11 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 **Have you remained in contact since those days?**
 
->No. I exiled myself to England from 1967 through Jan 1971, and Maeder socialised with my sister Colleen, and her husband Mike Taylor, while Mike studied Archaelogy at UCT. So, I remained in touch via Colleen
+>No. I exiled myself to England from 1967 through Jan 1971, and Maeder was in touch with my sister Colleen, and her husband Mike Taylor, while Mike studied Archaelogy at UCT. I remained in touch via Colleen.
 
 **Did you see one another sporadically over the years, or not at all until recently?**
 
->When Maeder started _Toverberg Indaba_, Colleen (who loved a road trip) and I (who love a train trip, although I did once drive down) would sometimes head down from Johannesburg to type-set the paper. We used _WordPerfect 5.1_ in those days! 
-
->Both of us were greatly impressed with Maeder's courage and innovation starting a tri-lingual newspaper in Colesberg, and wanted to do our bit. It was impressive enough to just **start a newspaper**, let alone a liberal one, and in three languages!
+>When Maeder started _Toverberg Indaba_, Colleen (who loved a road trip) and I (who love a train trip) would sometimes head down from Johannesburg to type-set the paper. We used _WordPerfect 5.1_ in those days (the 80s). Both of us were greatly impressed with Maeder's courage and innovation starting a tri-lingual newspaper in Colesberg, and wanted to do our bit. It was impressive enough to just **start a newspaper**, let alone a liberal one, and in three languages!
 
 **Why here, the Great Karoo?**
 
@@ -48,7 +46,11 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 **You're a musician. What about farming?**
 
->I was never _only_ a musician. After dropping out of UNP Fine Arts, I started my working life out as a stoker on steam locomotives in Empangeni, in then Zululand. After that, I exiled myself to England where I worked as a labourer for four years. It was only when the Special Branch set about a process that got me fired (for being an "agitator") from my job (which I happily thought would be my lifelong career) as a shipping Warehouse Administative Manager in Durban in 1973, that I was forced to take up music full time. I had not regarded myself as good enough, but in the end, I made the cut! 
+>I was never _only_ a musician. After dropping out of UNP Fine Arts, I started my working life out as a stoker on steam locomotives in Empangeni, in then Zululand. 
+
+![](/img/Jasper_19d_EPG.jpg?raw=true)
+
+After that, I exiled myself to England where I worked as a labourer for four years. It was only when the Special Branch set about a process that got me fired (for being an "agitator") from my job (which I happily thought would be my lifelong career) as a shipping Warehouse Administative Manager in Durban in 1973, that I was forced to take up music full time. I had not regarded myself as good enough, but in the end, I made the cut! 
 
 >I've "suffered", if you like, all my life from "urban/rural" conflict, and ... rural won! We've all seen farming change so much through the years. 
 
@@ -68,7 +70,7 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 >A few other things stand out:
 
-- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994, eight years with that band in all. 
+- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994, eight happy years with that band in all. 
 
 - A database for labour lawyers  resulting in reinstatement of 14000 workers  fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. This was me wearing another hat: my IT cap. 
 
