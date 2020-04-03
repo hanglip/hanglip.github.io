@@ -7,6 +7,7 @@ The Skuur (Shearning Shed) has always doubled as a culture and learning centre. 
 <!-- more -->
 
 ![](/img/lockdown%20lessons1web.gif?raw=true)
+Jasper with (L to R): Aviwe, Simphiwe, Michelle
 
 
 
