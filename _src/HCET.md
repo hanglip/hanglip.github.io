@@ -1,5 +1,6 @@
 # HANGLIP COMMUNITY EDUCATION TRUST
 
-## Lesley's copy follows ...
+Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.co.za).
+
 
 ### here
