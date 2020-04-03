@@ -32,7 +32,7 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 **Have you remained in contact since those days?**
 
->No. I exiled myself to England from 1967 through Jan 1971, and Maeder socialised with my sister Colleen, and her husband Mike Taylor, while he studied Archaelogy at UCT. So, I remained in touch via Colleen
+>No. I exiled myself to England from 1967 through Jan 1971, and Maeder socialised with my sister Colleen, and her husband Mike Taylor, while Mike studied Archaelogy at UCT. So, I remained in touch via Colleen
 
 **Did you see one another sporadically over the years, or not at all until recently?**
 
@@ -61,6 +61,20 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 >He couldn't do this today: dropping cream cans with a _laaimeester_ at Noupoort, whom he knew and relied upon to consign it correctly, does not happen today. Rail doesn't serve farmers today, except to carry some machinery and maybe grain, sometimes. It all went onto our roads.
 
 >My grandfather's farm was the twenty-seventh farm bought by a wealthy farmer back in the day, and that has become the trend. If you want to earn more, you buy more farms! 
+
+## What is your greatest achievement?
+
+>Nothing tops my children. They are all great inspirations to me, having made good and happy lives for themselves.
+
+>Then, a few things stand out, amongst which performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994 grows largest in my recollections.  
+
+>A proud moment was the reinstatement of 14000 workers who had been fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. 
+
+>This came about from another hat I sometimes wear: my IT cap. I am the last person who would consider myself to be an enterprise programmer, having never worked as such. One problem is my deafness, something that would try the patience of fellow programmers, since these days most programming is done in pairs or teams. 
+
+>Back in the 80s, I taught myself to progam in Turbo Pascal, a programming language that gave many programmers and hackers a start. After making a living free-lancing in Turbo Pascal, and computer (technical) journalism, I was rather thrilled with what we then called the "PC Revolution". I am, as far as I know, the first person to persuade lawyers in Johannesburg to purchase and use micro-computers, resulting in a flurry of case victories that had the apartheid authorities reeling. It was during that time that the SATS case came up.
+
+>Eventually, I found work doing niche programming VBA (Visual Basic for Applications), the programming language and environment that comes loaded with Mircrosoft Office. This gave me enough work to keep employed until my retirement from KRS [Khanyisa Real Systems](http://www.krs.co.za) in 2017.
 
 
 
