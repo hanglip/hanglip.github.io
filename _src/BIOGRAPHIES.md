@@ -66,13 +66,22 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 >**Nothing tops my children**. They are all great inspirations to me, having made good and happy lives for themselves.
 
->Then, a few things stand out:
+>A few other things stand out:
 
-- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994.  
+- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994, eight years with that band in all. 
 
 - A database for labour lawyers  resulting in reinstatement of 14000 workers  fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. This was me wearing another hat: my IT cap. 
 
 - Performing with the African Jazz Pioneers before 300 thousand people in Rome on Workers Day, 1993. The largest crowd I saw before then was 250 thouasand at the Rolling Stones Free Concert in Hyde Park
+
+- recording on three albums with Hugh Masekela, five with the African Jazz Pioneers, 19 albums in South Africa in all
+
+- Happiest live music event (there _so_ many) was performing in the Jonas Gwangwa Orchestra in the Civic Theatre in Johannesburg
+
+- four very happy years with Dennis Mpali's band
+
+- "suit" jobs ... my three years with [Khanyisa Real Systems](http://www.krs.co.za) until retirement.
+
 
 
 
