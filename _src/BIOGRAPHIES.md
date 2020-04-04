@@ -66,13 +66,13 @@ After that, I exiled myself to England where I worked as a labourer for four yea
 
 ## What is your greatest achievement?
 
->**Nothing tops my children**. They are all great inspirations to me. They all made good and happy lives for themselves.
+>**Nothing tops my children**. They are all great inspirations to me. They all made good and happy lives for themselves. How many people do that?
 
 >A few other things stand out:
 
-- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994, eight happy years with that band in all. 
+- Performing with the African Jazz Pioneers at the inauguration of President Nelson Mandela in 1994, and eight happy years with that band in all. 
 
-- A database for labour lawyers  resulting in reinstatement of 14000 workers  fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired, so reinstatement meant they were no longer homeless. This was me wearing another hat: my IT cap. 
+- A database for labour lawyers  resulting in reinstatement of 14000 workers  fired by SATS (South African Transport Services), in the 80s. Of those 14000, 3000 had families that were turfed out of their homes when fired. Reinstatement meant they were no longer homeless. This was me wearing another hat: my IT hat. 
 
 - Performing with the African Jazz Pioneers before 300 thousand people in Rome on Workers Day, 1993. The largest crowd I saw before then was 250 thouasand at the Rolling Stones Free Concert in Hyde Park
 
@@ -82,7 +82,7 @@ After that, I exiled myself to England where I worked as a labourer for four yea
 
 - four very happy years with Dennis Mpali's band
 
-- "suit" jobs ... It goes without saying that ), guy declared from early life as an "outy" was never going to be big on corporate stuff, but I finally ended my working life happilty in a small (but arguablly great) IT firm, [Khanyisa Real Systems](http://www.krs.co.za) until retirement. If KRS were big on "suits", it could be said that this was my happiest "suit" job, but KRS are delightfully more interested in quality work, not quality threads. These three years somehow feel like an achievement, almost like "all is forgiven, Jasper"!  
+- "suit" jobs ... It goes without saying that I, declared from early life as an "outy", was never going to be big on corporate stuff: corporates, to the last one, went along with apartheid, and that didn't wash for me. However, I ended my working life happily in a small but great IT firm, [Khanyisa Real Systems](http://www.krs.co.za) until retirement. If KRS were big on "suits", this would have been my happiest "suit" job, but KRS are delightfully more interested in how you think rather than how you look. Those three years somehow feel like an achievement, almost like "all is forgiven, Jasper"!  
 
 Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter Cheney's characters:
 
