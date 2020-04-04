@@ -2,9 +2,21 @@
 
 ### MAEDER OSLER
 
-Maeder has been in politics, journalism, teaching and farming.
+**Q & A with Maeder Osler**
 
-## What are your major influences in farming?
+**You have been in politics, journalism, education. music. What was your start in Politics?**
+
+>University.
+
+**How did you become involved with teaching?**
+
+>SACS
+
+**How did you come to be a farmer?**
+
+>Partner
+
+**What are your major influences in farming?**
 
 >Neil Tainton’s Natal University book **Veld Management in South Africa**, is probably first prize for me. 
 
@@ -16,11 +28,17 @@ Maeder has been in politics, journalism, teaching and farming.
 
 >And….  
 
+**Music: what was Ginger's Fault?**
+
+>Well, it started like this ...
+
 ### LESLEY OSLER
 
-See HCET in the Navigation Bar. 
+**Q & A with Lesley Osler**
 
 Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org.za).
+
+See HCET in the Navigation Bar. 
 
 ### JASPER COOK
 
@@ -50,13 +68,13 @@ Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org
 
 ![](/img/Jasper_19d_EPG.jpg?raw=true)
 
-After that, I exiled myself to England where I worked as a labourer for four years. It was only when the Special Branch set about a process that got me fired (for being an "agitator") from my job (which I happily thought would be my lifelong career) as a shipping Warehouse Administative Manager in Durban in 1973, that I was forced to take up music full time. I had not regarded myself as good enough, but in the end, I made the cut! 
+>After that, I exiled myself to England where I worked as a labourer for four years. It was only when the Special Branch set about a process that got me fired (for being an "agitator") from my job (which I happily thought would be my lifelong career) as a shipping Warehouse Administative Manager in Durban in 1973, that I was forced to take up music full time. I had not regarded myself as good enough, but in the end, I made the cut! 
 
->I've "suffered", if you like, all my life from "urban/rural" conflict, and ... rural won! We've all seen farming change so much through the years. 
+>I've "suffered", if you like, all my life from "urban/rural" conflict, and ... rural won! Partly because, as we've all seen, farming has changed so much through the years. 
 
 **You say farming has changed?**
 
->I am influenced by the memory of my grandfather's farm. It was the smallest farm in the district. He was warned that he would not scratch a living from it. In the end, he did quite well enough, because he had the energy and the nous to run a "farm within a farm". 
+>I am influenced by the memory of my grandfather's farm. It was the smallest farm in the district. He was warned that he would not scratch a living from it. In the end, he did well enough, because he had the energy and the nous to run a "farm within a farm". 
 
 >He kept Jersey and Guernsey milkers, a bit unknown for the Karoo in those days, and grew lucerne to feed them, also baled it for dry times, built a huge dam to irrigate the lucerne. He sold cream to the Queenstown dairy, skimmed milk was fed to the pigs, a litter of which he grew out and sold yearly, and chickens followed the cows and pigs, providing eggs and meat. Springbok culling also provided meat. The cream and pigs paid most of the bills, and he needed very little from town.
 
