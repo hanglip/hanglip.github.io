@@ -66,7 +66,7 @@ After that, I exiled myself to England where I worked as a labourer for four yea
 
 ## What is your greatest achievement?
 
->**Nothing tops my children**. They are all great inspirations to me, having made good and happy lives for themselves.
+>**Nothing tops my children**. They are all great inspirations to me. They all made good and happy lives for themselves.
 
 >A few other things stand out:
 
@@ -82,7 +82,12 @@ After that, I exiled myself to England where I worked as a labourer for four yea
 
 - four very happy years with Dennis Mpali's band
 
-- "suit" jobs ... my three years with [Khanyisa Real Systems](http://www.krs.co.za) until retirement.
+- "suit" jobs ... It goes without saying that ), guy declared from early life as an "outy" was never going to be big on corporate stuff, but I finally ended my working life happilty in a small (but arguablly great) IT firm, [Khanyisa Real Systems](http://www.krs.co.za) until retirement. If KRS were big on "suits", it could be said that this was my happiest "suit" job, but KRS are delightfully more interested in quality work, not quality threads. These three years somehow feel like an achievement, almost like "all is forgiven, Jasper"!  
+
+Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter Cheney's characters:
+
+>**"We get there, and who the hell cares how!"**
+
 
 
 
