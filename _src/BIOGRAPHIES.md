@@ -108,7 +108,7 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 
 **Q & A with Nicholas Allens**
 
-Nicholas Allens, Botanist
+Nicholas Allens, Horticulturist
 ![](/img/NicholasAllens.jpg?raw=true)
 
 
