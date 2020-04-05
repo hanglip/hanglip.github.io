@@ -25,7 +25,7 @@ Massey Feguson and Herder van
 ![](/img/Herdervan.jpg?raw=true)
 
 Livestock drain pad
-![](/img/LIvestockDrainPad.jpg?raw=true)
+![](/img/LivestockDrainPad.jpg?raw=true)
 
 Landini under repair
 ![](/img/LandiniUnderRepair.jpg?raw=true)
