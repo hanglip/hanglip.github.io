@@ -66,7 +66,7 @@ See HCET in the Navigation Bar.
 
 >I was never _only_ a musician. After dropping out of UNP Fine Arts, I started my working life out as a stoker on steam locomotives in Empangeni, in then Zululand. 
 
-![](/img/Jasper_19d_EPG.jpg?raw=true)
+<img src="/img/Jasper_19d_EPG.jpg" alt="Drawing" style="width: 450px;"/>
 
 >After that, I exiled myself to England where I worked as a labourer for four years. It was only when the Special Branch set about a process that got me fired (for being an "agitator") from my job (which I happily thought would be my lifelong career) as a shipping Warehouse Administative Manager in Durban in 1973, that I was forced to take up music full time. I had not regarded myself as good enough, but in the end, I made the cut! 
 
@@ -109,7 +109,9 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 **Q & A with Nicholas Allens**
 
 Nicholas Allens, Horticulturist
-![](/img/NicholasAllens.jpg?raw=true)
+
+<img src="/img/NicholasAllens.jpg" alt="Drawing" style="width: 450px;"/>
+
 
 
 
