@@ -1,31 +1,47 @@
 # GALLERY
 
 Old Lucerne Land after rain
-![](/img/LucernePostRain.jpg?raw=true)
+
+<!--![](/img/LucernePostRain.jpg?raw=true) -->
+<img src="/img/LucernePostRain.jpg" alt="Drawing" style="width: 500px;"/>
+
+<!-- <table border = 1><tr>
+<td> <img src="/img/LucernePostRain.jpg" alt="Drawing" style="width: 500px;"/> </td>
+ -->
 
 Horse camp after rain
-![](/img/PerdelandPostRain.jpg?raw=true)
+
+<img src="/img/PerdelandPostRain.jpg" alt="Drawing" style="width: 500px;"/>
+<!-- </tr></table> -->
 
 Skuur and gum trees after rain
-![](/img/PostRainSkuurGums.jpg?raw=true)
+
+<img src="/img/PostRainSkuurGums.jpg" alt="Drawing" style="width: 500px;"/>
 
 Richards Lands flowers after rain
-![](/img/RichardFlowers.jpg?raw=true)
+
+<img src="/img/RichardFlowers.jpg" alt="Drawing" style="width: 500px;"/>
 
 Richards lands rain growth
-![](/img/RichardsRainGrowth.jpg?raw=true)
+
+<img src="/img/RichardsRainGrowth.jpg" alt="Drawing" style="width: 500px;"/>
 
 Vegetable Garden after rain
-![](/img/VegGardenPostRain.jpg?raw=true)
+
+<img src="/img/VegGardenPostRain.jpg" alt="Drawing" style="width: 500px;"/>
 
 Worker vegetable garden
-![](/img/WorkerVegPatch.jpg?raw=true)
+
+<img src="/img/WorkerVegPatch.jpg" alt="Drawing" style="width: 500px;"/>
 
 Massey Feguson and Herder van
-![](/img/Herdervan.jpg?raw=true)
+
+<img src="/img/Herdervan.jpg" alt="Drawing" style="width: 500px;"/>
 
 Livestock drain pad
-![](/img/LSDrainPad.jpg?raw=true)
+
+<img src="/img/LSDrainPad.jpg" alt="Drawing" style="width: 500px;"/>
 
 Landini under repair
-![](/img/LandiniUnderRepair.jpg?raw=true)
+
+<img src="/img/LandiniUnderRepair.jpg" alt="Drawing" style="width: 500px;"/>
