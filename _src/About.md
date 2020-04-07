@@ -1,6 +1,6 @@
 ### ABOUT THIS BLOG: Note from Jasper Cook (creator of this blog)
 
->Usually, blogs invite readers to comment, with a text area to submit below each blog post.  This blog doesn't do that, but not because we don't invite responses. We value them, and would prefer them emailed to us on **maedercskaroo@gmail.com**.
+>Usually, blogs invite readers to comment, with a text area to submit below each blog post.  This blog doesn't do that, but not because we don't invite responses. We value them, and would prefer them emailed to us on **hanglipkaroo@gmail.com**.
 
 >The reason we don't feature instant repsonses like this is that this is a _static blog_, not a _dynamic blog_, and this is a static blog because that way it is hosted for free. If it included comments, that would fall away. We don't at this stage want a "bells and whistles" blog.
 
