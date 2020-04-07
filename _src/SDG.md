@@ -22,7 +22,7 @@
 
 ## End Poverty
 
-We comply in terms of remuneration. The Dept is only interested in us meeting the National Minimum Wage, which we exceed. Maeder Osler developed a methodology around remuneration over the years, the aim (and result) being to reward and retain people whom we admire and want to continue their work here.
+We comply in terms of remuneration. The Labour Department seems only interested in us meeting the National Minimum Wage, which we exceed. Maeder Osler developed a methodology around remuneration over the years, the aim (and result) being to reward and retain people whom we admire and want to continue their work here.
 
 ## End Hunger
 
@@ -44,7 +44,7 @@ Jasper has recycled an old tower PC into a "Linux Box", serving currently as a T
 
 ## Gender Equality
 
-We know that role playing patterns are established early in life. In holidays, girls arrive at the Groothuis, wanting to do chores for holiday mnoney. Boys' holiday money comes from teaching horseriding, maybe gathering firewood. It appears these roles stem from parents, or just from 'tradition' and we tend to go along with them, so as not to rock family boats!  
+We know that role playing patterns are established early in life. In holidays, girls arrive at the Groothuis, wanting to do chores for holiday money. Boys' holiday money comes from teaching horseriding, maybe gathering firewood. It appears these roles stem from parents, or just from 'tradition' and we tend to go along with them, so as not to rock family boats!  
 
 We noted also, on arrival of our graduates, that the two female graduates do not ride horses. They certainly did not flinch when asked to do work on fences, and mucked in willingly with every conceivable farm work task thrown at them, but evidently horseriding is for men only! Well, we continue to encourage everyone to do whatever they feel like doing, and are happy if women hit the trail to fetch sheep and cattle. It just hasn't happened. Yet. Nothing to do with us. When we had a braaivleis, it was a male graduate who prepared the "roosterbrood", not a female!  
 
@@ -58,11 +58,11 @@ As the world gets more aware of issues around water and sanitation, so we mull o
 
 Availibility of water in the Karoo has, since the arrival of the windmill, been energy-related. For example, windmills pump only when there is wind, solar panel-powered submersible pumps work only during daylight. The natural cadences of wind and sunlight tend to "rest" a borehole, as against an Escom-powered pump, which, unless it has a timer, will pump continuously, day and night (as long as there is electricity), sometimes drying a borehole up. This feels like a bad thing.
 
-Apart from availibity, there is the matter of how we **use** water. We know what large and small livestock water needs are, and the larger farm is an extensive network of pump-fed reservoirs supplying water to the livestock camps gravitationally from high points.
+Apart from availibity, there is the matter of how we **use** water. We know what large and small livestock water needs are, and the larger farm is an extensive network of mill-fed reservoirs supplying water to the livestock camps gravitationally from high points.
 
-One has to assess whether growing crops will strain water resources: we can't, for example grow crops if that takes water away from livestock.
+One has to assess whether growing crops will strain water resources: we can't, for example grow crops that take water away from livestock.
 
-With droughts, through the years, it was perhaps natural that we retreated from crop growing. Sometimes, it was less to do with water supply, more that results were not totally ideal.  For example, lucerne was grown for years, but lucerne, grown on this particular farm, caused bloat in the animals. Many other crops were grown, but crop growing in the Karoo doesn't happen without some form of irrigation, and that comes with problems for the soil, whether compaction (flood irrigation) or build-up of salts (sprinkler or pivot irrigation). When it comes to growing for the markets, we are far from them, so what we grew was for our own needs, since we could not compete with farmers who are nearer to main markets. 
+With droughts, through the years, it was perhaps natural that we retreated from crop growing. Sometimes, it was less to do with water supply, more that results were not totally ideal. For example, lucerne was grown for years, but lucerne, grown on this particular farm, caused bloat in the animals. Many other crops were grown, but crop growing in the Karoo doesn't happen without some form of irrigation, and that comes with problems for the soil, whether compaction (flood irrigation) or build-up of salts (sprinkler or pivot irrigation). When it comes to growing for the markets, we are far from them, so what we grew was for our own needs, since we could not compete with farmers who are nearer to main markets. 
 
 Then again, accountants work from a financial bias, and their advice was that buying from specialist, large-scale grain and fodder farmers was more feasible and cheaper than growing our own. Thus, the trend to gigantism and agri-business began and has increased through the years. 
 
@@ -100,11 +100,11 @@ People tend to forget that Economic Growth is a figment of gigantism more than a
 
 Although our government has recently classified a spaza as a supermarket, most economic studies ignore them, consigning them to what economists know as the "informal sector". On farms, a lot of what we do is squarely in that informal sector. How do we then contribute to "Economic Growth" on the scale this generally covers? For example, from well before anyone even knew about the concept of Economic Growth, people treated cattle as wealth, yet buying and selling them has a tendency to not find its way into the record books. In most rural areas, it is completely informal, and most of the currency involved is not recorded in any books, nor by any banks.
 
-There are points of impact from farms. Buying a tractor, for example, adds to our Gross National Budget. However, since tractors are not manufactured in South Africa, they also swell imports. This has Foreign Exchange side effects, not only in terms of the purchase price of a tractor, but of the cost of the imported fuel that it wil use in its lifetime.
+There are points of impact from farms. Buying a tractor, for example, adds to our Gross National Budget. However, since tractors are not manufactured in South Africa, they also swell imports. This has Foreign Exchange side effects, not only in terms of the purchase price of a tractor, but of the cost of imported fuel it will use in its lifetime.
 
 Concentrating on Economic Growth as a concept tends to bypass the "little guy".  
 
-Having said all this. The bottom line is that Economic Growth depends on creating surpluses, producing more than we need for ourselves and selling that surplus, whether it is grown (adriculture) or dug out of the ground (mining), or pulled from rivers, lakes or the sea. 
+Having said all this. The bottom line is that Economic Growth depends on creating surpluses, producing more than we need for ourselves and selling that surplus, whether it is grown (agriculture) or dug out of the ground (mining), or pulled from rivers, lakes or the sea. 
 
 At scale, Hanglip produces wool and meat, but it's possible to do this on a small scale too (small because we don't have limitless water), which we deal with under various SDG categories: empoyment and decent work creation can be the result of regeneration of worked out old crop lands.
 
@@ -129,7 +129,7 @@ On Hanglip, infrastructure means:
 
 Some of our infrastructure is old, and we are soon beginning repairs and upgrades to (mostly) fences. 
 
-A livestock farm is not necessarily where one expects to find _industrialisation_ but there are overlaps: Welding, for example, can go beyond repairs: workers can get creative and make useful things. Aside from welding, our Allen Allens knocked together useful refuse collection points using nothing more than wire and fencing standards.
+A livestock farm is not necessarily where one expects to find _industrialisation_ but there are overlaps: Welding, for example, can go beyond repairs: workers can get creative and make useful things. Aside from welding, our Allen Uithaler knocked together useful refuse collection points using nothing more than wire and fencing standards.
 
 ## Inequality
 

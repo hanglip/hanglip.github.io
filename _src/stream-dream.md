@@ -6,7 +6,7 @@ Oorlogspoort River is a river only in arid country terms.  It's the sort of rive
 
 It is, at best, a stream, and we feel very lucky that Hangklip straddles it. Maeder sometimes uses the term "drainage system" for these gravitional run-off features, found all over the Karoo.
 
-For us, it's a fulcrum, if you like, with two main components to it uppermost in our thinking about it.  It is rich in history and has great promise for a future conservancy
+For us, it's a fulcrum, if you like, with two main components to it uppermost in our thinking about it.  It is rich in history and has great promise for a future conservancy, something that we are slowly planning.
 
 ## SM Osler:
 ***Oorlogspoort stream, Hanglip farm****
@@ -27,7 +27,7 @@ There is a contour feed-off for surplus water to Potfontein farm at the northmos
 
 Historically the stream has at times been a subject of controversy and conflict between some neighbours, about the use of water from the stream, particularly about the pumping of water from or nearby the stream for potential lands …
 
-Two generations back the first Hanglip windmill pumped from the stream into a catchment dam for irrigation from some 700 meters south of the roadway bridges. Thereafter the pump worked through a diesel generator. When the Biggs/Pienaar families hired the farm, if not  before with the Jim Oppenshaw hire, a small low holding local stone weir was built on the farm, just upstream of the windmill catchment pool. An electric pump came more recently in Maeder’s time, in recent years, only for livestock emergency drinking water.  
+Two generations back the first Hanglip windmill pumped from the stream into a catchment dam for irrigation from some 700 meters south of the roadway bridges. Thereafter the pump worked through a diesel generator. When the Biggs/Pienaar families hired the farm, if not  before with the Jim Openshaw hire, a small low holding local stone weir was built on the farm, just upstream of the windmill catchment pool. An electric pump came more recently in Maeder’s time, in recent years, only for livestock emergency drinking water.  
 
 There are two bridges, an old bridge and a newer, nearby higher ‘Schimper’ bridge – named after Maeder’s grandfather who once served on the then Divisional Council (a ‘bloedsap’ enthusiast)
 

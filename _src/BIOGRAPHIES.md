@@ -6,15 +6,15 @@
 
 **You have been in politics, journalism, education. music. What was your start in Politics?**
 
->University.
+>By way of student affairs at Pietermaritzburg, for a long start … Still is a long and challenging haul….
 
 **How did you become involved with teaching?**
 
->SACS
+>By inclination and training, then fulfilments all over the place! Enriching to still be with so many learners …
 
 **How did you come to be a farmer?**
 
->Partner
+>Dream of restoring a family farm ... became a long and interesting road, with many twists and turns ... and still is ...
 
 **What are your major influences in farming?**
 
@@ -24,7 +24,7 @@
 
 >Dr [Cherryl Walker](https://cosmopolitankaroo.co.za/research-team/cherryl-walker/) and the teams of researchers around Stellenbosch University. Dr William Beinart of Oxford University. And much work done through all the universities of South Africa. In general I admire the work done by many government departments and in the United Nations agencies.
 
->I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are and John Seymour of **The New Complete Book of Self-Sufficiency**, Masanobu Fukuoka of **One Straw Revolution** and Dr EF Schumacher of **Small Is Beautiful: A Study of Economics As If People Mattered**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Les, and our four children Mark, Miles, Kath, Ken. 
+>I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are John Seymour of **The New Complete Book of Self-Sufficiency**, Masanobu Fukuoka of **One Straw Revolution** and Dr EF Schumacher of **Small Is Beautiful: A Study of Economics As If People Mattered**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Lesley Osler, and our four children Mark, Miles, Kath, Ken. 
 
 >And….  
 
@@ -46,7 +46,7 @@ See HCET in the Navigation Bar.
 
 **How do you know Maeder Osler?**
 
->We go back to early 60s. Shortly before Maeder became NUSAS President, he was a regular supper guest at our house in Scotsville, Pietermaritzburg, two short blocks down from the UNP campus. Other regular supper guests from or related to UNP were Hugh & Liz Lewin, John Lloyd, Caroline White, HWD "Cake" Manson, Cathy Shallis (now Brubeck), Michael and Lettie Gardiner. It's a long list! Maeder is closer in age to my late brother, Al Cook, and for a time shared a flat with John Lloyd, who I regarded as my best friend later.
+>We go back to early 60s. Shortly before Maeder became NUSAS President, he was a regular guest at our house in Scotsville, Pietermaritzburg, two short blocks down from the UNP campus. Other regular supper guests from or related to UNP were Hugh & Liz Lewin, John Lloyd, Caroline White, HWD "Cake" Manson, Cathy Shallis (now Brubeck), Michael and Lettie Gardiner. It's a long list! Maeder is closer in age to my late brother, Al Cook, and for a time shared a flat with John Lloyd, who I regarded as my best friend later.
 
 **Have you remained in contact since those days?**
 
@@ -58,7 +58,7 @@ See HCET in the Navigation Bar.
 
 **Why here, the Great Karoo?**
 
->My grandfather, Clarence Every, farmed on "Vinkelfontein", midway between Noupoort, Middelburg, and Hanover. From before I can even remember, we boarded the train every Christmas, to spend the holidays on that farm for some years, and then later on my unclde Dirk Viljoen's farm "Slaaifontein" not far away, west of the same triple-platberg towering over Vinkelfontein. 
+>My grandfather, Clarence Every, farmed on "Vinkelfontein", midway between Noupoort, Middelburg, and Hanover. From before I can even remember, we boarded the train every Christmas, to spend the holidays on that farm for some years, and then later on my uncle Dirk Viljoen's farm "Slaaifontein" not far away, west of the same triple-platberg towering over Vinkelfontein. 
 
 >My dad was a civil servant. We did not have a car. So he used his civil servant train concession every year. All four of us siblings longed far more for the Karoo than for PMB and the midlands of then Natal. It's a matter of where the heart is.
 
@@ -108,6 +108,8 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 
 
 **Q & A with Nicholas Allens**
+
+(Coming soon ... )
 
 Nicholas Allens, Horticulturist
 
