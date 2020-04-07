@@ -110,14 +110,22 @@ At scale, Hanglip produces wool and meat, but it's possible to do this on a smal
 
 ## Infrastructure, Industrialisation, Innovation
 
-On Hanglip, infrastructure means 
+On Hanglip, infrastructure means:
+
 - buildings
+
 - water pipes
+
 - reservoirs
+
 - roads-
+
 - fences
+
 - gates
-- communications (as in recent internet access) 
+
+- communications (as in recently added internet access) 
+
 
 Some of our infrastructure is old, and we are soon beginning repairs and upgrades to (mostly) fences. 
 
