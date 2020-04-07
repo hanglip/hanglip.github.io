@@ -2,17 +2,11 @@
 
 Old Lucerne Land after rain
 
-<!--![](/img/LucernePostRain.jpg?raw=true) -->
 <img src="/img/LucernePostRain.jpg" alt="Drawing" style="width: 450px;"/>
-
-<!-- <table border = 1><tr>
-<td> <img src="/img/LucernePostRain.jpg" alt="Drawing" style="width: 450px;"/> </td>
- -->
 
 Horse camp after rain
 
 <img src="/img/PerdelandPostRain.jpg" alt="Drawing" style="width: 450px;"/>
-<!-- </tr></table> -->
 
 Skuur and gum trees after rain
 
@@ -34,7 +28,7 @@ Worker vegetable garden
 
 <img src="/img/WorkerVegPatch.jpg" alt="Drawing" style="width: 450px;"/>
 
-Massey Feguson and Herder van
+Massey Ferguson and Herder Van
 
 <img src="/img/HerderVan.jpg" alt="Drawing" style="width: 450px;"/>
 
