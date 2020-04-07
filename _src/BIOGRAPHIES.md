@@ -22,7 +22,10 @@
 
 >Then there are a host of other researchers in veld, environment and land affairs that I honour and respect very highly. Among these are chiefly Drs Sue Milton and Richard Deane of [Renu Karoo](http://www.renu-karoo.co.za) 
 
->Dr Cherryl Walker and the teams of researchers around Stellenbosch University. Dr William Beinart of Oxford University. And much work done through all the universities of South Africa. In general I admire the work done by many government departments and in the United Nations agencies.
+<!-- https://cosmopolitankaroo.co.za/research-team/cherryl-walker/ 
+Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org.za).-->
+
+>Dr [Cherryl Walker](https://cosmopolitankaroo.co.za/research-team/cherryl-walker/) and the teams of researchers around Stellenbosch University. Dr William Beinart of Oxford University. And much work done through all the universities of South Africa. In general I admire the work done by many government departments and in the United Nations agencies.
 
 >I am much and widely influenced by many Hanglip associates – they know who they are. Jasper Cook is an inspiration for me. So are and John Seymour in Sustainable Agriculture, and Masanobu Fukuoka of **One Straw Revolution** and Dr EF Schumacher of **Small Is Beautiful: A Study of Economics As If People Mattered**. And many more people in the communities of Colesberg, and beyond ... Not least of my wife Les, and our four children Mark, Miles, Kath, Ken. 
 
