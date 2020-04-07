@@ -32,6 +32,11 @@
 
 >Well, it started like this ...
 
+<video width="320" height="240" controls>
+  <source src="stoeprehearsal.mp4" type="video/mp4">
+</video>
+
+
 ### LESLEY OSLER
 
 **Q & A with Lesley Osler**
