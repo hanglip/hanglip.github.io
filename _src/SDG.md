@@ -58,7 +58,7 @@ As the world gets more aware of issues around water and sanitation, so we mull o
 
 Availibility of water in the Karoo has, since the arrival of the windmill, been energy-related. For example, windmills pump only when there is wind, solar panel-powered submersible pumps work only during daylight. The natural cadences of wind and sunlight tend to "rest" a borehole, as against an Escom-powered pump, which, unless it has a timer, will pump continuously, day and night (as long as there is electricity), sometimes drying a borehole up. This feels like a bad thing.
 
-Apart from availibity, there is the matter of how we **use** water. We know what large and small livestock water needs are, and the larger farm is an extensive network of mill-fed reservoirs supplying water to the livestock camps gravitationally from high points.
+Apart from availability, there is the matter of how we **use** water. We know what large and small livestock water needs are, and the larger farm is an extensive network of mill-fed reservoirs supplying water to the livestock camps gravitationally from high points.
 
 One has to assess whether growing crops will strain water resources: we can't, for example grow crops that take water away from livestock.
 
