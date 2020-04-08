@@ -36,6 +36,8 @@
   <source src="/img/stoeprehearsal.mp4" type="video/mp4">
 </video>
 
+____
+
 ### LESLEY OSLER
 
 **Q & A with Lesley Osler**
@@ -43,6 +45,8 @@
 Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org.za).
 
 See HCET in the Navigation Bar. 
+
+____
 
 ### JASPER COOK
 
@@ -108,7 +112,9 @@ See HCET in the Navigation Bar.
 
 Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter Cheney's characters:
 
->**"We get there, and who the hell cares how!"**
+>**"We get there, and who the hell cares how!"*
+
+____
 
 
 **Q & A with Nicholas Allens**
@@ -118,6 +124,8 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 Nicholas Allens, Horticulturist
 
 <img src="/img/NicholasAllens.jpg" alt="Drawing" style="width: 450px;"/>
+
+____
 
 
 
