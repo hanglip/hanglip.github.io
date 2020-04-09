@@ -1,41 +1,24 @@
 # GALLERY
 
-Old Lucerne Land after rain
+<script src="/js/md-gallery.js"></script>
 
-<img src="/img/LucernePostRain.jpg" alt="Drawing" style="width: 450px;"/>
+- <img src="/img/LucernePostRain.jpg" alt="Old Lucerne Land after rain" style="width: 400px;"/>
+- <img src="/img/PerdelandPostRain.jpg" alt="Horse camp after rain" style="width: 400px;"/>
+- <img src="/img/PostRainSkuurGums.jpg" alt="Skuur and gum trees after rain" style="width: 400px;"/>
+- <img src="/img/RichardFlowers.jpg" alt="Richards Lands flowers after rain" style="width: 400px;"/>
+- <img src="/img/RichardsRainGrowth.jpg" alt="Richards lands rain growth" style="width: 400px;"/>
+- <img src="/img/VegGardenPostRain.jpg" alt="Vegetable Garden after rain" style="width: 400px;"/>
+- <img src="/img/WorkerVegPatch.jpg" alt="Worker vegetable garden" style="width: 400px;"/>
+- <img src="/img/HerderVan.jpg" alt="Massey Ferguson and Herder Van" style="width: 400px;"/>
+- <img src="/img/LSDrainPad.jpg" alt="Livestock drain pad" style="width: 400px;"/>
+- <img src="/img/LandiniUnderRepair.jpg" alt="Landini under repair" style="width: 400px;"/>
 
-Horse camp after rain
+<script>
+	md_gallery({
+		'list_type':'ul',
+		'class_name':'gallery',
+		'tag_type':'article'
+	});
+</script>
 
-<img src="/img/PerdelandPostRain.jpg" alt="Drawing" style="width: 450px;"/>
 
-Skuur and gum trees after rain
-
-<img src="/img/PostRainSkuurGums.jpg" alt="Drawing" style="width: 450px;"/>
-
-Richards Lands flowers after rain
-
-<img src="/img/RichardFlowers.jpg" alt="Drawing" style="width: 450px;"/>
-
-Richards lands rain growth
-
-<img src="/img/RichardsRainGrowth.jpg" alt="Drawing" style="width: 450px;"/>
-
-Vegetable Garden after rain
-
-<img src="/img/VegGardenPostRain.jpg" alt="Drawing" style="width: 450px;"/>
-
-Worker vegetable garden
-
-<img src="/img/WorkerVegPatch.jpg" alt="Drawing" style="width: 450px;"/>
-
-Massey Ferguson and Herder Van
-
-<img src="/img/HerderVan.jpg" alt="Drawing" style="width: 450px;"/>
-
-Livestock drain pad
-
-<img src="/img/LSDrainPad.jpg" alt="Drawing" style="width: 450px;"/>
-
-Landini under repair
-
-<img src="/img/LandiniUnderRepair.jpg" alt="Drawing" style="width: 450px;"/>
