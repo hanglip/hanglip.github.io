@@ -116,15 +116,11 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 
 ____
 
-
 **Q & A with Nicholas Allens**
 
-(Coming soon ... )
+(Coming soon)
 
-Nicholas Allens, Horticulturist
-
-<img src="/img/NicholasAllens.jpg" alt="Drawing" style="width: 450px;"/>
-
+<img src="/img/NicholasAllens.jpg" alt="Drawing" style="width: 400px;"/>     
 ____
 
 
