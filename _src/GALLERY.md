@@ -11,7 +11,12 @@
 - <img src="/img/WorkerVegPatch.jpg" alt="Worker vegetable garden" style="width: 400px;"/>
 - <img src="/img/HerderVan.jpg" alt="Massey Ferguson and Herder Van" style="width: 400px;"/>
 - <img src="/img/LSDrainPad.jpg" alt="Livestock drain pad" style="width: 400px;"/>
-- <img src="/img/LandiniUnderRepair.jpg" alt="Landini under repair" style="width: 400px;"/>
+- <img src="/img/sannaskop1.jpg" alt="sannaskop 1" style="width: 400px;"/>
+- <img src="/img/sannaskop2.jpg" alt="sannaskop 2" style="width: 400px;"/>
+- <img src="/img/sannaskop3.jpg" alt="sannaskop 3" style="width: 400px;"/>
+- <img src="/img/sannaskop4.jpg" alt="sannaskop 4" style="width: 400px;"/>
+- <img src="/img/sannaskop5.jpg" alt="sannaskop 5" style="width: 400px;"/>
+- <img src="/img/sannaskop6.jpg" alt="sannaskop 6" style="width: 400px;"/>
 
 <script>
 	md_gallery({
