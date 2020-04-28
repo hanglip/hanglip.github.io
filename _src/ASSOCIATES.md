@@ -9,23 +9,13 @@
 
 Maeder's brother, from Poplar Grove (a farm some 40 kms away from Hanglip) & partner Margie
 
-+ Zen guy
+Farmer, Musician (guitar, bull fiddle), Zen perseon
 
-+ Farmer
-
-+ Musician (guitar, bull fiddle)
-
-**What is your specialty?**
-
->ZenZenZenZenZenZenZenZen ZenZenZenZenZenZenZenZenZenZenZen ZenZenZenZenZenZen ZenZen ZenZenZenZenZen ZenZenZenZenZenZenZenZen ZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZenZen
-
->ZenZen ZenZenZenZenZen Zen ZenZenZenZenZenZenZen ZenZen Zen ZenZen Zen ZenZenZenZenZenZenZenZenZenZen ZenZenZen ZenZenZenZenZenZen ZenZenZenZenZenZenZenZenZen ZenZenZenZenZenZ
-
->More Zen More Zen More Zen More Zen 
+>Coming soon
 
 
 <a name="milesosler"></a>
 
 ## PLUMSTEAD OSLERS
 
->To be completed
+>Coming soon
