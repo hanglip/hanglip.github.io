@@ -1,4 +1,4 @@
-#  Stream Dream
+#  STREAM DREAM
 
 ## Oorlogspoort River
 
@@ -9,7 +9,7 @@ It is, at best, a stream, and we feel very lucky that Hanglip straddles it. Maed
 For us, it's a fulcrum, if you like, with two main components to it uppermost in our thinking about it.  It is rich in history and has great promise for a future conservancy, something that we are slowly planning.
 
 ## SM Osler:
-***Oorlogspoort stream, Hanglip farm****
+***Oorlogspoort stream, Hanglip farm***
 
 ![Hanglip from above](/img/Hanglip.jpg)
 
