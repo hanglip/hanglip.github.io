@@ -1,6 +1,6 @@
 
 # ASSOCIATES
-
+<!-- 
 <a href="#antonyosler">Poplar Grove Oslers</a> + <a href="#milesosler">Plumstead Oslers</a>
 
 <a name="antonyosler"></a>
@@ -17,5 +17,6 @@ Farmer, Musician (guitar, bull fiddle), Zen perseon
 <a name="milesosler"></a>
 
 ## PLUMSTEAD OSLERS
+-->
 
 >Coming soon
