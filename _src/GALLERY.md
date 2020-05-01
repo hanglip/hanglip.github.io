@@ -10,6 +10,7 @@
 - <img src="/img/VegGardenPostRain.jpg" alt="Vegetable Garden after rain" style="width: 400px;"/>
 - <img src="/img/WorkerVegPatch.jpg" alt="Worker vegetable garden" style="width: 400px;"/>
 - <img src="/img/HerderVan.jpg" alt="Massey Ferguson and Herder Van" style="width: 400px;"/>
+- <img src="/img/landini.jpg" alt="Landini" style="width: 400px;"/>
 - <img src="/img/LSDrainPad.jpg" alt="Livestock drain pad" style="width: 400px;"/>
 - <img src="/img/sannaskop1.jpg" alt="sannaskop 1" style="width: 400px;"/>
 - <img src="/img/sannaskop2.jpg" alt="sannaskop 2" style="width: 400px;"/>
