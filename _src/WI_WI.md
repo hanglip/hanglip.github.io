@@ -56,7 +56,7 @@ Everyone grows _something_ on the farm. We all have allotments. When we talk abo
 
 ## DO or GIVE: "WORKER" SEMANTICS
 
-We get our word "do" from Latin. I was taught that it meant "give" - as in **DO**nate, whereas it has strayed through centuries in English to mean the opposite of idleness. I prefer to think of it as meaning both "do" and "give". When I work for somebody, it feels better to know I am "giving" my employer something, rather than merely killing time. Just as surely, when idle, I  can't be giving at aLl. That said, idleness has its place. Bertrand Russell wrote **In Praise of Idleness**, though I don't recall him advocating a salary for idlers!
+We get our word "do" from Latin. I was taught that it meant "give" - as in **DO**nate, whereas it has strayed through centuries in English to mean the opposite of idleness. I prefer to think of it as meaning both "do" and "give". When I work for somebody, it feels better to know I am "giving" my employer something, rather than merely killing time. Just as surely, when idle, I  can't be giving at all. That said, idleness has its place. Bertrand Russell wrote **In Praise of Idleness**, though I don't recall him advocating a salary for idlers!
 
 In the same way, the words that came into our language courtesy of the Industrial Revolution are growing boring tiring. Take "manager". The root is also from Latin: "manus" is a hand, and I suppose we must believe that managers "handle" things. In my mind, they "manipulate" rather than handle! Their task became to wheedle ever more work out of people, calling this "productivity". If ever a word needed to be "decolonialised" it is that one! 
 
