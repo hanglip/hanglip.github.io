@@ -54,8 +54,48 @@ Everyone grows _something_ on the farm. We all have allotments. When we talk abo
 
 <a name="laboursemantics">Labour Semantics</a>
 
-## DO/GIVE: SYMANTICS OF LABOUR
+## DO or GIVE: "WORKER" SEMANTICS
 
-We get our word "do" from Latin. I was taught that it meant "give" - as in DOnate, whereas it has strayed through centuries in English to mean the opposite of idleness. I prefer to think of it meaning both "do" and "give". When I work for somebody, it feels better to think that I am "giving" my employer something, rather than filling my time with activities. Just as surely, if I sit idle,I  can't be giving anything to anyone or anything at aLl.
+We get our word "do" from Latin. I was taught that it meant "give" - as in **DO**nate, whereas it has strayed through centuries in English to mean the opposite of idleness. I prefer to think of it as meaning both "do" and "give". When I work for somebody, it feels better to know I am "giving" my employer something, rather than merely killing time. Just as surely, when idle, I  can't be giving anything to anyone or anything at aLl. That said, idleness has its place. Bertrand Russell wrote **In Praise of Idleness**, though whatever its virtues, I don't recall him advocating a salary for idlers!
 
-In the same way, the words that came into our language courtesy of the Industrial Revolution are (to me) growing boring and I'm tired of them. Take "manager". The root is also from Latin: "manus" is a hand, and I suppose we must believe that managers "handle" things. In my mind, they "manipulate" rather than handle! Their task became to wheedle ever more work out of workers, calling this "productivity". At one time, managers came from the ranks of workers. Back then, they were more effective than now in one sense: they were not askind do-ers to do something they themselves could not do. Attahed to this was at least a figment of respect. By the time managers reached the point where it was no longer believed that they should be able to do what their responders could do, but rather "specialise" in management, was where it all began to unravel (in my opinion).
+In the same way, the words that came into our language courtesy of the Industrial Revolution are (to me) growing boring and I'm tired of them. Take "manager". The root is also from Latin: "manus" is a hand, and I suppose we must believe that managers "handle" things. In my mind, they "manipulate" rather than handle! Their task became to wheedle ever more work out of workers, calling this "productivity". If ever a word needed to be "decolonialised" that word is it! 
+
+For a long time, managers came from the ranks - they had proved themselves on the job. Back then, they were more effective than now in one sense: they were not asking others to do something they themselves could not do. Some respect naturally followed. By the time managers were no longer expected to cope with what they expected from others, but rather "specialise" in management, was where it all began to unravel. It is difficult to respect someone who can't do what s/he is asking you to do.
+
+Ricardo Semler (**Maverick, Seven Day Weekend**) Brazilian industrialist famouslfy fired 95% of management within his first month of taking over his father's heavy industry factory. Soon after that, he published earnings of all employed there for all to see. It did narrow the wage gap, but  having people swap roles and jobs for a time resulted in mutual respect for everyone in their own roles. Floor sweepers notably did not in the slightest wish to ever attempt to understand upper management roles, not even desire their salary levels after that.
+
+For the sake of decolonising, and as we enter 4IR (Fourth Industrial Revolution) we prefer to replace some tired old industrial words. We observe the following levels: 
+
++ doer
+
++ maker
+
++ chatter
+
++ decider
+
+### DOER
+
+This is someone who does 'more of the same' (and is arguably happy with that) daily. S/he is happy with learning new things from time to time, but unhappy with taking on too much complexity too soon. It replaces wordls like 'labourer', 'worker'.
+
+### MAKER
+
+This is someone who is also a doer, but tends to put something new into action. S/he is a creator but not necessarily a designer (only).
+
+### CHATTER
+
+This is a playful communicator, who prefers the world of ideas, and loves to jostle and juggle them about and come up with solutions for things, or even something radically new. S/he needs further to not feel guilty about chatting and the value of lightness and play, instead of being glued to a desk "looking busy"!
+
+### DECIDER
+
+This a person happiest when s/he has to decide things. It is a special skill, needing in the first place, the very precious skill of **listening** and the equally special skills of empathy, understanding and **"response-ability"**.
+
+In all four of these positions, we consider it most important to foster and reward "awareness". If people _understand_ that there is poverty, and why and where it comes from, they have half a chance to help us free our people from it. Being unaware of it tends to go hand in hand with _accepting it as inevitable_ (nearly always wrong). in the 1980s, a negotiator was posed the question, set out by a worker, about "transformation not happening soon enough".  The negotiator promptly asked what he, the questioner, was doing to bring about transformation. In the same way, we believe if someone has a better understanding of poverty, s/he is better placed to deal with it.
+
+## RESPONSE ABILITY
+
+We prefer to see a person as a **responder** as opposed to a worker.  S/he _responds_  to the time of day. For example, our cows are milked first thing in the morning, before we get into the veld or whatever. So, we resond to that time of the day by milking (just as our response to 10h30 is to have tea!)
+
+
+It follows from these changes that it is far easier to arrive at the notion of rewarding people for whom they are as much as what they do. Maeder has evolved over the years a Discretionary Award system against which people are rewarded quality rather than quantity. They are rewarded for their specialness and their special results in place of a dull count of tasks.
+
