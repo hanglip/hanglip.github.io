@@ -3,6 +3,7 @@
 <a href="#landini">Landini Repair</a><br>
 <a href="#waterlesstoilet">Waterless Toilets</a><br>
 <a href="#foodsecurity">Food Security</a><br>
+<a href="#laboursemantics">Labour Semantics</a><br>
 
 ## ***W***ild ***I***deas: 
 
@@ -50,3 +51,11 @@ Our plans for the riverine area include buiding a deck for campers. Under the de
 ## Food Security
 
 Everyone grows _something_ on the farm. We all have allotments. When we talk about food security, we really mean "for our animals", but that doesn't mean we can't do better for ourselves. Sprouted barley fodder has worked, on a tiny scale. We are trying to ramp that up before winter dries everything up.
+
+<a name="laboursemantics">Labour Semantics</a>
+
+## DO/GIVE: SYMANTICS OF LABOUR
+
+We get our word "do" from Latin. I was taught that it meant "give" - as in DOnate, whereas it has strayed through centuries in English to mean the opposite of idleness. I prefer to think of it meaning both "do" and "give". When I work for somebody, it feels better to think that I am "giving" my employer something, rather than filling my time with activities. Just as surely, if I sit idle,I  can't be giving anything to anyone or anything at aLl.
+
+In the same way, the words that came into our language courtesy of the Industrial Revolution are (to me) growing boring and I'm tired of them. Take "manager". The root is also from Latin: "manus" is a hand, and I suppose we must believe that managers "handle" things. In my mind, they "manipulate" rather than handle! Their task became to wheedle ever more work out of workers, calling this "productivity". At one time, managers came from the ranks of workers. Back then, they were more effective than now in one sense: they were not askind do-ers to do something they themselves could not do. Attahed to this was at least a figment of respect. By the time managers reached the point where it was no longer believed that they should be able to do what their responders could do, but rather "specialise" in management, was where it all began to unravel (in my opinion).
