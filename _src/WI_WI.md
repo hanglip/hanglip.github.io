@@ -4,6 +4,7 @@
 <a href="#waterlesstoilet">Waterless Toilets</a><br>
 <a href="#foodsecurity">Food Security</a><br>
 <a href="#laboursemantics">Labour Semantics</a><br>
+<a href="#wealthcreation">Wealth Creation</a><br>
 
 ## ***W***ild ***I***deas: 
 
@@ -66,7 +67,7 @@ When managers were no longer expected to perform what they expected from others,
 
 Ricardo Semler (**Maverick, Seven Day Weekend**) Brazilian industrialist famously fired 95% of management within his first month of taking over his father's heavy industry factory. Soon after that, he published earnings of all employed there, for all to see. It _did_ narrow the wage gap, but  having people swap roles and jobs for a time resulted in mutual respect for everyone in their own roles. Floor sweepers notably did not in the slightest wish to ever attempt to understand upper management roles, (nor even covet their salary levels) after trying to upper management!
 
-For the sake of decolonising, and as we enter 4IR (Fourth Industrial Revolution) we prefer to replace some tired old industrial words. We observe the following: 
+For the sake of decolonising, and as we enter 4IR (Fourth Industrial Revolution) can we replace some tired old industrial words? What about: 
 
 + doer
 
@@ -98,7 +99,27 @@ In all four of these positions, we consider it most important to foster and rewa
 
 ## RESPONSE-ABILITY
 
-We prefer to see a person as a **responder** as opposed to a worker.  S/he _responds_  to the time of day. For example, our cows are milked first thing in the morning, before we get into the veld or whatever. So, we resond to that time of the day by milking (just as our response to 10h30 is to have tea!). It follows that it is just as easy to reward people for _whom they are_ as for _what they do_. 
+Working is a given. We find everyone gets down to it with a will, so we prefer to see a person as a **responder**.  S/he _responds_  to the time of day. For example, our cows are milked first thing in the morning, before we get into the veld or whatever. So, we resond to that time of the day by milking (just as our response to 10h30 is to have tea!). It follows that it is just as easy to reward people for _whom they are_ as for _what they do_. 
 
-Maeder has evolved over the years a Discretionary Award system against which people are rewarded for quality as well as quantity. They are rewarded for their specialness and their special results, in place of a dull count of tasks ticked off.
+Maeder has evolved over the years a **Discretionary Award** system against which people are rewarded for quality as well as quantity. They are rewarded for awareness, of issues, for their specialness and their special accomplishments, in place of a dull count of tasks ticked off.
+
+<a name= "wealthcreation"></a>
+
+## WEALTH CREATION
+
+The simplest creation of wealth is a piggy bank. Setting aside a coin or two for a "rainy day" is fine when you have have a surplus of coins, but not easy when things are tight. All of us do this more easily together than we do singly. Surely, that is how a **stokvel** came about. Committing to save with others brings about the need to comply, to "not let anyone down". "Stokvels" (known in the West Indies as "loan clubs") are a good example of how much easier it is to save "together".
+
+Story: In the factory of a large multinational corporationin Harlesden, London, a high percentage of the unskilled workforce were West Indies immigrants. As happens in immigrant situations, a few started out, and over time, pulled more and more of their countrymen and women into the firm. The immigrant population grew. Over years, some married, had children, and found the need to buy houses once they knew they would get permanent residence in England. 
+
+There was a problem, however. England, although there was no apartheid, nor any segregation in law, was a toxic place where banks were "mysteriously" unable to advance mortgage loans to black West Indian immigrants. So, the workers at this plant started a loan club. They worked out "how many people", contributing "how many pounds", for  "how many weeks" from their wages, would take "how long to pay cash for a house". The money was calculated, saved and used, and inside a decade, every "loan clubber" at this factory bought a house, paid for in cash. 
+
+Putting it another way, because of their ... racism?, banks cost themselves the opportunity to earn interest on several hundred houses, and saved thousands for the imigrants who paid cash for their properties in Harlesden. 
+
+This was at a time when "conservative" (read Fascist?) Enoch Powell would bluster "you don't have to live next to one" and so on, but Harlesden did not make a name for itself as a hotbed of crime or whatever. It quietly continued as a middle class residential area. Once people owned houses, banks found themselves "able" to loan money to the new residents. As usual with banks and loans, they only have money to lend when you don't need it. The immigrant workers continued using loan clubs, patiently waiting for their payout turn to purchase cars, alter houses, and so on.
+
+In practice, what were the details? Let's say a Harlesden house sold for 2500 pounds back then. Weekly wages were around 8 pounds without overtime. The decision was they could afford to put 3 pounds per week into the loan club, and out of a total workforce of 850 people, there are 400 in the loan club. That's 1200 pounds per week. Three weeks amounts to 3600 pounds, enough to pay for a house cash, with 900 poounds left over for expenses like electricity, bond charges, whatever. A house can be saved for bought and paid for, every three weeks. 400 members = 400 weeks. Divide by 52. That's slightly less than 8 years.
+
+So, wording it another way, in 8 years, 400 people own a fully paid up house. Not bad. Bad luck, racist banks! The people got 400 houses without your loans! You should have been wide awake instead of lolling around ... What? you were 'having a midlands'? Too bad.
+
+
 
