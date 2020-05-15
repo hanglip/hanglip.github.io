@@ -5,6 +5,7 @@
 <a href="#foodsecurity">Food Security</a><br>
 <a href="#laboursemantics">Labour Semantics</a><br>
 <a href="#wealthcreation">Wealth Creation</a><br>
+<a href="#tovercoin">Tovercoin</a><br>
 
 ## ***W***ild ***I***deas: 
 
@@ -120,6 +121,18 @@ This was at a time when "conservative" (read Fascist?) Enoch Powell would bluste
 In practice, what were the details? Let's say a Harlesden house sold for 2500 pounds back then. Weekly wages were around 8 pounds without overtime. The decision was they could afford to put 3 pounds per week into the loan club, and out of a total workforce of 850 people, there are 400 in the loan club. That's 1200 pounds per week. Three weeks amounts to 3600 pounds, enough to pay for a house cash, with 900 poounds left over for expenses like electricity, bond charges, whatever. A house can be saved for bought and paid for, every three weeks. 400 members = 400 weeks. Divide by 52. That's slightly less than 8 years.
 
 So, wording it another way, in 8 years, 400 people own a fully paid up house. Not bad. Bad luck, racist banks! The people got 400 houses without your loans! You should have been wide awake instead of lolling around ... What? you were 'having a midlands'? Too bad.
+
+
+<a name= "tovercoin"></a>
+<!--
+# TOVERCOINS
+-->
+
+
+
+
+
+
 
 
 
