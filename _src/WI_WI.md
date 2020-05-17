@@ -15,7 +15,7 @@
 
 ## ***W***ild ***I***deas: 
 
-There is time here to muse on things, to ponder, and one project we have in mind for the future is to restore our Landini tractor. So, we appeal to any and all associates and friends, if you know of anyone who has done what follows, pleaset let us know. To be clear on this, we prefer to meet a real live person who has done this. We **know** it's all over the net, and people have done it, we just want the real deal straight from someone's experience.
+There is time here to muse on things, to ponder, and one project we have in mind for the future is to restore our Landini tractor. So, we appeal to any and all associates and friends, if you know of anyone who has done a tractor-from-forklift EV conversion, please let us know. To be clear on this, we prefer to meet a real live person who has done this. We **know** it's all over the net, and people have done it, we just want the real deal straight from someone's experience.
 
 <a name="landini"></a>
 
