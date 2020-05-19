@@ -11,7 +11,7 @@ For us, it's a fulcrum, if you like, with two main components to it uppermost in
 ## SM Osler:
 ***Oorlogspoort stream, Hanglip farm***
 
-![Hanglip from above](/img/Hanglip.jpg)
+![Hanglip from above](/img/hanglip_valuator2.png)
 
 ### Introduction
 
