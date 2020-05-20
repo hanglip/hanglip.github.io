@@ -34,18 +34,64 @@
     </script>
   </head>
   <body>
-    <a name="top"></a>
+    <style>
 
-    <p>Translate this page:</p>
+     #myBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        font-size: 18px;
+        border: none;
+        outline: none;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 4px;
+      }
+
+      #myBtn:hover {
+        background-color: #555;
+      }
+      </style>
+
+
+      <p>Translate this page:</p>
 
     <div id="google_translate_element"></div>
 
-          <script type="text/javascript">
+      <script type="text/javascript">
         function googleTranslateElementInit() {
           new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
         }
       </script>
+<a name="top"></a>
 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+<script>
+  //Get the button
+  var mybutton = document.getElementById("myBtn");
+
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  </script>
 
     <!-- A standard Twitter Bootstrap nav bar -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
@@ -206,7 +252,9 @@
 
 <p>Lesley co-founded <a href="http://www.hantam-trust.org.za">Hantam Community Education Trust</a>.</p>
 
-<p>See HCET in the Navigation Bar.  ____</p>
+<p>See HCET in the Navigation Bar.</p>
+
+<hr />
 
 <p><a name="nicholasallens"></a></p>
 
@@ -330,6 +378,8 @@
 <blockquote>
  <p>*<em>&ldquo;We get there, and who the hell cares how!&rdquo;</em></p></blockquote>
 
+<hr />
+
 <p><a name="dawidallens"></a></p>
 
 <h3 id="dawid-allens">DAWID ALLENS</h3>
@@ -338,6 +388,8 @@
 
 <p>(Coming soon)</p>
 
+<hr />
+
 <p><a name="zolityobeka"></a></p>
 
 <h3 id="zolile-tyobeka">ZOLILE TYOBEKA</h3>
@@ -345,6 +397,8 @@
 <p><strong>Q &amp; A with Zolile Tyobeka</strong></p>
 
 <p>(Coming soon)</p>
+
+<hr />
         </div>
       </div>
       <footer>
@@ -375,10 +429,12 @@
         <!-- <p><em>Your legal notice here</em>.</p> -->
       </footer>
     </div>
+
     <!-- </body> JS -->
     <div style="text-align:center">
       <a href="#top">Back to top</a>
     </div>
+
     <script type="text/javascript" src="/js/jquery-3.2.1.slim.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

@@ -34,18 +34,64 @@
     </script>
   </head>
   <body>
-    <a name="top"></a>
+    <style>
 
-    <p>Translate this page:</p>
+     #myBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        font-size: 18px;
+        border: none;
+        outline: none;
+        background-color: red;
+        color: white;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 4px;
+      }
+
+      #myBtn:hover {
+        background-color: #555;
+      }
+      </style>
+
+
+      <p>Translate this page:</p>
 
     <div id="google_translate_element"></div>
 
-          <script type="text/javascript">
+      <script type="text/javascript">
         function googleTranslateElementInit() {
           new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
         }
       </script>
+<a name="top"></a>
 
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+
+<script>
+  //Get the button
+  var mybutton = document.getElementById("myBtn");
+
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  </script>
 
     <!-- A standard Twitter Bootstrap nav bar -->
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
@@ -324,7 +370,7 @@
 
 <p>One day, science will prove (his and) Jasper&rsquo;s theory: that trees grow well only with birdsong. Those growth rings in the tree trunks we cut down mark the passage of years, but they will also prove to be a vibrant record of the subtle seasonal bird songs themselves. Sound etches those rings, as it did the grooves in vinyl records!</p>
 
-<p>With Covid&ndash;19 quietening the planet, scientists are finding out all sorts of things. One is that the earth’s crust, particularly sensitive to the movement of tectonic plates as well as our noisy vibrations, started to move less, allowing detectors to possibly <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNMgFjWNvKwZsjJShTwDtcchP">spot smaller earthquakes and volcanic activity.</a>. Wars remain a crima against nature. It is good they are still noisy &hellip; can you imagine anything more scary than a silent one? Like the 1918 Spanish Flu? After a four year bombardment, millions died coughing quietly in their beds.</p>
+<p>With Covid&ndash;19 quietening the planet, scientists are finding out all sorts of things. One is that the earth’s crust, particularly sensitive to the movement of tectonic plates as well as our noisy vibrations, started to move less, allowing detectors to possibly <a href="https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNMgFjWNvKwZsjJShTwDtcchP">spot smaller earthquakes and volcanic activity.</a>. Wars remain a crima against nature. It is good they are still noisy &hellip; can you imagine anything more scary than a silent one? Like the 1918 Spanish Flu? After a four year bombardment, millions died sighing in their beds.</p>
 
 <p>Our cities have filled with wild animals since lockdown. In some places, they show no fear of people. Mayabe it isn&rsquo;t <strong>us</strong> they shied away from, but our calamity of vehicle noise and poisoned air?</p>
         </div>
@@ -357,10 +403,12 @@
         <!-- <p><em>Your legal notice here</em>.</p> -->
       </footer>
     </div>
+
     <!-- </body> JS -->
     <div style="text-align:center">
       <a href="#top">Back to top</a>
     </div>
+
     <script type="text/javascript" src="/js/jquery-3.2.1.slim.min.js"></script>
     <script type="text/javascript" src="/js/bootstrap.bundle.min.js"></script>
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>

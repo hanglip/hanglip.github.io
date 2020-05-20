@@ -64,6 +64,8 @@ _____
 Lesley co-founded [Hantam Community Education Trust](http://www.hantam-trust.org.za).
 
 See HCET in the Navigation Bar. 
+
+
 ____
 
 <a name="nicholasallens"></a>
@@ -165,7 +167,8 @@ ____
 Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter Cheney's characters:
 
 >**"We get there, and who the hell cares how!"*
-
+  
+____
 
 <a name="dawidallens"></a>
 
@@ -174,6 +177,8 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 **Q & A with Dawid Allens**
 
 (Coming soon)
+  
+____
 
 <a name="zolityobeka"></a>
 
@@ -182,6 +187,8 @@ Looking back, I hear the words of Slim Callaghan, one of whodunit author Peter C
 **Q & A with Zolile Tyobeka**
 
 (Coming soon)
+  
+____
 
 
 
