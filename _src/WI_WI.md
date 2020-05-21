@@ -184,6 +184,15 @@ With Covid-19 quietening the planet, scientists are finding out all sorts of thi
 
 Our cities have filled with wild animals since lockdown. In some places, they show no fear of people. Mayabe it isn't **us** they shied away from, but our calamity of vehicle noise and poisoned air?
 
+## COMPARISON BUILD: POLES vs FINNBUILDER
+
+We will do a size for size comparison of the cheapest single room measuring (in metres):<br>
+Height: 3<br>
+Length: 5<br>
+Width: 4<br>
+
+The floor & roof will be identical, so we will confine ourselves to cost of walls only.
+
 
 
 
