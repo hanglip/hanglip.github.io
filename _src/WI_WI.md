@@ -2,7 +2,6 @@
 
 <a href="#landini">Landini Repair</a><br>
 <a href="#foodsecurity">Food Security</a><br>
-<a href="#wealthcreation">Wealth Creation</a><br>
 <a href="#toverstok">Toverstok</a><br>
 <a href="#deadtech">Dead Tech</a><br>
 <a href="#birdsong">Birdsong</a>
@@ -39,41 +38,6 @@ So, if you know this has been done, and know the person that did it, or if you a
 ### Food Security
 
 Everyone grows _something_ on the farm. We all have allotments. When we talk about food security, we really mean "for our animals", but that doesn't mean we can't do better for ourselves. Sprouted barley fodder has worked, on a tiny scale. We are trying to ramp that up before winter dries everything up.
-
-<a name= "wealthcreation"></a>
-
-### WEALTH CREATION
-
-The simplest creation of wealth is a piggy bank. Setting aside a coin or two for a "rainy day" is fine when you have have a surplus of coins, but not easy when things are tight. All of us do this more easily together than we do singly. Surely, that is how a **stokvel** came about. Committing to save with others brings about the need to comply, to "not let anyone down". "Stokvels" (known in the West Indies as "loan clubs") are a good example of how much easier it is to save "together".
-
-Story: In the factory of a large multinational corporationin Harlesden, London, a high percentage of the unskilled workforce were West Indies immigrants. As happens in immigrant situations, a few started out, and over time, pulled more and more of their countrymen and women into the firm. The immigrant population grew. Over years, some married, had children, and found the need to buy houses once they knew they would get permanent residence in England. 
-
-There was a problem, however. England, although there was no apartheid, nor any segregation in law, was a toxic place where banks were "mysteriously" unable to advance mortgage loans to black West Indian immigrants. So, the workers at this plant started a loan club. They worked out "how many people", contributing "how many pounds", for  "how many weeks" from their wages, would take "how long to pay cash for a house". The money was calculated, saved and used, and inside a decade, every "loan clubber" at this factory bought a house, paid for in cash. 
-
-Putting it another way, because of their ... racism?, banks cost themselves the opportunity to earn interest on several hundred houses, and saved thousands for the imigrants who paid cash for their properties in Harlesden. 
-
-This was at a time when "conservative" (read Fascist?) Enoch Powell would bluster "you don't have to live next to one" and so on, but Harlesden did not make a name for itself as a hotbed of crime or whatever. It quietly continued as a middle class residential area. Once people owned houses, banks found themselves "able" to loan money to the new residents. As usual with banks and loans, they only have money to lend when you don't need it. The immigrant workers continued using loan clubs, patiently waiting for their payout turn to purchase cars, alter houses, and so on.
-
-In practice, what were the details? Let's say a Harlesden house sold for 2500 pounds back then. Weekly wages were around 8 pounds without overtime. The decision was they could afford to put 3 pounds per week into the loan club, and out of a total workforce of 850 people, there are 400 in the loan club. That's 1200 pounds per week. Three weeks amounts to 3600 pounds, enough to pay for a house cash, with 900 poounds left over for expenses like electricity, bond charges, whatever. A house can be saved for bought and paid for, every three weeks. 400 members = 400 weeks. Divide by 52. That's slightly less than 8 years.
-
-So, wording it another way, in 8 years, 400 people own a fully paid up house. Not bad. Bad luck, racist banks! The people got 400 houses without your loans! You should have been wide awake instead of lolling around ... What? you were 'having a midlands'? Too bad.
-
-
-Ricardo Salvador: 
->“Emancipation never really came to agriculture, in the sense that we still don’t pay the full value of the labor that’s required to make the entire system work.”
-
->There’s a phenomenon that all of us are observing at the moment that…. We could make this a political conversation, and I will try to steer away from that. But the fact is that policy is involved, and the phenomenon that I’m referring to is the phenomenon that’s known typically as the fog of war. When you have a major crisis that is absorbing the public’s attention, this is a prime time to try to push through policy goals that normally would just be completely intolerable, unpalatable, to the public.
-
->So what you have is the top of this pyramid that I described earlier, which is essentially the highly concentrated agribusiness sector, attempting to exploit the moment to cut as many costs as possible, and one of those costs is the cost of farm labor. And they’re cravenly taking advantage of the fact that, for all the reasons that I just described, these are people that are politically invisible; they don’t have muscle. Many of them are domestic guest workers in the country; they signed paperwork that says they’re only here to work in fields, that’s all, and when they’re done, they return home. Or else they’re not documented, and so what are they going to do when they’re exploited? Sue? They have no standing, and so that’s being cravenly exploited.
-
->We need a food system that is fungible, that has redundancy built in. The so-called efficiencies that have been built into the highly specialized industrial model that we have right now, we are now learning, do not serve us when you have a situation where a single thing that is unpredicted takes out one pillar of the food system, and then the whole thing comes crumbling down. That’s not the kind of food system that we need. We need one that is more distributed, meaning that there are more nodes within the food system that can respond in the volumes and quantities and the formats that are necessary for where people are going to be using this food.
-
->Now, a very good example of that is that the farmers that are doing well right now are the so-called small-scale family farmers. These are folks that produce in volumes, and who redistribute in local and regional networks, where they can respond very quickly, to where the schools are now becoming redistribution points for SNAP, for instance, or for school food that needs to be picked up by students that otherwise might not have access to that food, because they’re not coming to school every day, and so on. Or through farmers markets, another very important redistribution method which is very fungible. So we’re learning that that’s actually what works; we need to invest more in these kinds of highly distributed systems, and less in the highly concentrated systems.
-
->Probably the single most influential agricultural lobby is the American Farm Bureau Federation. They say they represent farmers, but they actually represent agribusiness.
-
->And by the way, I’ll remind everyone that we’re living in a time where, to quote Noam Chomsky a couple of weeks ago, every fiscal conservative is hiding their copy of Ayn Rand and is lining up for benefits from the nanny state. There’s a lot of hypocrisy that we need to throw in these people’s faces, because that’s the urgency that the degree of exploitation and dysfunction that we’re living through demands.
-
 
 <a name= "toverstok"></a>
 
