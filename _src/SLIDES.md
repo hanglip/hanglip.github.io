@@ -1,0 +1,31 @@
+ SLIDES
+
+<img class="mySlides" src="/img/landini.jpg" width="100%">
+<img class="mySlides" src="/img/LSDrainPad.jpg" width="100%">
+<img class="mySlides" src="/img/PerdelandPostRain.jpg" width="100%">
+<img class="mySlides" src="/img/LucernePostRain.jpg" width="100%">
+
+<button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+<button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+<script>
+
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length} ;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+
+</script>
