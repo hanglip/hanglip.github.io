@@ -1,10 +1,5 @@
- SLIDES
-<!--
-<img class="mySlides" src="/img/landini.jpg" width="100%">
-<img class="mySlides" src="/img/LSDrainPad.jpg" width="100%">
-<img class="mySlides" src="/img/PerdelandPostRain.jpg" width="100%">
-<img class="mySlides" src="/img/LucernePostRain.jpg" width="100%">
--->
+ 
+# SLIDES
 
 <img class="mySlides" src="/img/LucernePostRain.jpg" alt="Old Lucerne Land after rain" style="width: 100%"/>
 <img class="mySlides" src="/img/PerdelandPostRain.jpg" alt="Horse camp after rain" style="width: 100%"/>
@@ -12,16 +7,15 @@
 <img class="mySlides" src="/img/RichardFlowers.jpg" alt="Richards Lands flowers after rain" style="width: 100%"/>
 <img class="mySlides" src="/img/RichardsRainGrowth.jpg" alt="Richards lands rain growth" style="width: 100%"/>
 <img class="mySlides" src="/img/VegGardenPostRain.jpg" alt="Vegetable Garden after rain" style="width: 100%"/>
-<img class="mySlides" src="/img/WorkerVegPatch.jpg" alt="Worker vegetable garden" style="width: 100%"/>
+<img class="mySlides" src="/img/WorkerVegPatch.jpg" alt="Allotment vegetable garden" style="width: 100%"/>
 <img class="mySlides" src="/img/HerderVan.jpg" alt="Massey Ferguson and Herder Van" style="width: 100%"/>
 <img class="mySlides" src="/img/Landini.jpg" alt="Landini" style="width: 100%"/>
 <img class="mySlides" src="/img/LSDrainPad.jpg" alt="Livestock drain pad" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop1.jpg" alt="sannaskop 1" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop2.jpg" alt="sannaskop 2" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop3.jpg" alt="sannaskop 3" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop4.jpg" alt="sannaskop 4" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop5.jpg" alt="sannaskop 5" style="width: 100%"/>
-<img class="mySlides" src="/img/sannaskop6.jpg" alt="sannaskop 6" style="width: 100%"/>
+<img class="mySlides" src="/img/sannaskop1.jpg" alt="Sannaskop 1" style="width: 100%"/>
+<img class="mySlides" src="/img/sannaskop2.jpg" alt="Sannaskop 2" style="width: 100%"/>
+<img class="mySlides" src="/img/sannaskop3.jpg" alt="Sannaskop 3" style="width: 100%"/>
+<img class="mySlides" src="/img/sannaskop4.jpg" alt="Sannaskop 4" style="width: 100%"/>
+<img class="mySlides" src="/img/sannaskop6.jpg" alt="Sannaskop 6" style="width: 100%"/>
 
 <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
 <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
