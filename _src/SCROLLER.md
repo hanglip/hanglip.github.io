@@ -45,7 +45,7 @@
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="/img/RichardsLandAfterRain.jpg" style="width:100%">
+  <img src="/img/RichardsLandAfterRAin.jpg" style="width:100%">
   <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
     Richards Land Growth After Rain
   </div>
@@ -95,7 +95,7 @@
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop6.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-blue">
     Sannaskop 5
   </div>
 </div>
