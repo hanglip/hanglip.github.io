@@ -1,4 +1,4 @@
-# SCROLLER
+# SLIDESHOW
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -11,36 +11,92 @@
 
 <div class="w3-display-container mySlides">
   <img src="/img/HerderVan.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
     Herder van
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/Landini.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
     Landini
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/LucernePostRain.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
     Lucerne Land Post Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/PerdelandPostRain.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
     Horse Camp After Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/RichardFlowers.jpg" style="width:100%">
-  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
     Richards Land Flowers After Rain
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/RichardsLandAfterRain.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
+    Richards Land Growth After Rain
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/RichardsRainGrowth.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
+    Richards Land Rain growth
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/RichardsWerf.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
+    Richards Land & Werfgebou
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/sannaskop1.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
+    Sannaskop 1
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/sannaskop2.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
+    Sannaskop 2
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/sannaskop3.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
+    Sannaskop 3
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/sannaskop5.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-yellow">
+    Sannaskop 4
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/sannaskop6.jpg" style="width:100%">
+  <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-purple">
+    Sannaskop 5
   </div>
 </div>
 
