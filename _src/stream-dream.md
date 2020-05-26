@@ -9,9 +9,14 @@ It is, at best, a stream, and we feel very lucky that Hanglip straddles it. Maed
 For us, it's a fulcrum, if you like, with two main components to it uppermost in our thinking about it.  It is rich in history and has great promise for a future conservancy, something that we are slowly planning.
 
 ## SM Osler:
+
 ***Oorlogspoort stream, Hanglip farm***
 
+<img src="/img/hanglip_valuator2.png" style="width:100%">
+
+<!--
 ![Hanglip from above](/img/hanglip_valuator2.png)
+-->
 
 ### Introduction
 
@@ -19,7 +24,11 @@ From central South to North East, flowing northwards, the Oorlogspoort stream is
 
 <!-- more -->
 
+<!--
 ![Hanglip Old Lands from above](/img/HanglipCoreArea.jpg)
+-->
+
+<img src="/img/HanglipCoreArea.jpg" style="width:100%">
 
 The stream as a whole would be seen as a special riverine area, in need of biodiversity protection into the future. This is probably also the reason behind the state’s interventions during the mid to late 1950’s in the construction of cement erosion weirs. On oral evidence the valley through which the stream flowed was in former years badly eroded. The central state weir is on Hanglip at the edge of its Rivercamp, a 2nd weir at Sukkelweir (on the edge of Hanglip’s Sukkelweir camp), and a final weir at the north end of the property and against the adjoining Potfontein and Vergelegen farms.
 
