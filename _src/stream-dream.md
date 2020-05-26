@@ -6,7 +6,10 @@ Oorlogspoort River is a river only in arid country terms.  It's the sort of rive
 
 It is, at best, a stream, and we feel very lucky that Hanglip straddles it. Maeder sometimes uses the term "drainage system" for these gravitional run-off features, found all over the Karoo.
 
-For us, it's a fulcrum, if you like, with two main components to it uppermost in our thinking about it.  It is rich in history and has great promise for a future conservancy, something that we are slowly planning.
+For us, it's a focal farm point, its two main qualities being that it:
+
++ is rich in history
++ has great promise for a future, planned conservancy.
 
 ## SM Osler:
 
