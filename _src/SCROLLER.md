@@ -11,92 +11,99 @@
 
 <div class="w3-display-container mySlides">
   <img src="/img/HerderVan.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Herder van
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/Landini.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Landini
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/LucernePostRain.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Lucerne Land Post Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/PerdelandPostRain.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Horse Camp After Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/RichardFlowers.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Richards Land Flowers After Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/RichardsLandAfterRAin.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Richards Land Growth After Rain
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/RichardsRainGrowth.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Richards Land Rain growth
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/RichardsWerf.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Richards Land & Werfgebou
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop1.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Sannaskop 1
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop2.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Sannaskop 2
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop3.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-purple">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Sannaskop 3
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop5.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-yellow">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Sannaskop 4
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
   <img src="/img/sannaskop6.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-blue">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-purple">
     Sannaskop 5
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/lukeRocklands3.jpg" style="width:100%">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-blue">
+    Luke hiking - Rocklands area
   </div>
 </div>
 
