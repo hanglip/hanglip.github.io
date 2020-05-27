@@ -102,8 +102,15 @@
 
 <div class="w3-display-container mySlides">
   <img src="/img/lukeRocklands3.jpg" style="width:100%">
-  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-blue">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-yellow">
     Luke hiking - Rocklands area
+  </div>
+</div>
+
+<div class="w3-display-container mySlides">
+  <img src="/img/HanglipBWSmaller3.jpg" style="width:100%">
+  <div class="w3-display-bottomright w3-large w3-container w3-padding-8 w3-blue">
+    Hanglip from the Koppie above
   </div>
 </div>
 
