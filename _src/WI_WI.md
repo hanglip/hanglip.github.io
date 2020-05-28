@@ -4,7 +4,10 @@
 <a href="#foodsecurity">Food Security</a><br>
 <a href="#toverstok">Toverstok</a><br>
 <a href="#deadtech">Dead Tech</a><br>
+
+<!-->
 <a href="#birdsong">Birdsong</a>
+-->
 
 ## ***W***ild ***I***deas: 
 
@@ -71,19 +74,11 @@ Combustive efficiency isn't always the sole criterion. For example, during apart
 
 Well, we will never see this steam engine, no matter how efficient.  The world is moving to batteries, and our Elon Musk now claims his Tesla ones are good for two millions miles. Everything is going toward battery power.
 
+<!--
 <a name= "birdsong"></a>
 
-## Birdsong
 
-In Sebastian Faulks's book **Birdsong** set in WWI, he said that war was **"A huge crime against nature"**. Can anyone beat that for a description? Forest after forest was left without foliage, or even branches, on trees, and many trees were uprooted by shells. Millions of tons of sometimes poisonous munitions metal were buried in the forests and grasslands. It took more than half a century for some forests to recover, and recovery itself did not improve at a decent pace until, as one old man put it, "they managed to get the birds back".
 
-One day, science will prove (his and) Jasper's theory: that trees grow well only with birdsong. Those growth rings in the tree trunks we cut down mark the passage of years, but they will also prove to be a vibrant record of the subtle seasonal bird songs themselves. Sound etches those rings, as it did the grooves in vinyl records!
-
-With Covid-19 quietening the planet, scientists are finding out all sorts of things. One is that the earth’s crust, particularly sensitive to the movement of tectonic plates as well as our noisy vibrations, started to move less, allowing detectors to possibly [spot smaller earthquakes and volcanic activity.](https://mail.google.com/mail/u/0/#inbox/FMfcgxwHNMgFjWNvKwZsjJShTwDtcchP). Wars remain a crima against nature. It is good they are still noisy ... can you imagine anything more scary than a silent one? Like the 1918 Spanish Flu? After a four year bombardment, millions died sighing in their beds.
-
-Our cities have filled with wild animals since lockdown. In some places, they show no fear of people. Mayabe it isn't **us** they shied away from, but our calamity of vehicle noise and poisoned air?
-
-<!--
 ## COMPARISON BUILD: POLES vs FINNBUILDER
 
 We will do a size for size comparison of the cheapest single room measuring (in metres):<br>
