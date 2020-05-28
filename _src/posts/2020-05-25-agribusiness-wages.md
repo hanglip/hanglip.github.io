@@ -4,6 +4,8 @@
 
 ## AGRIBUSINESS
 
+>"_**every fiscal conservative is hiding their copy of Ayn Rand and is lining up for benefits from the nanny state**_"
+
 Ricardo Salvador: 
 
 >“Emancipation never really came to agriculture, in the sense that we still don’t pay the full value of the labor that’s required to make the entire system work.
