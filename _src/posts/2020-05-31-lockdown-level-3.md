@@ -8,7 +8,7 @@
 
 Cigarettes, no. Alcohol sales allowed Monday thru Thursday.
 
-***Exercise?**
+**Exercise?**
 
 Between 6am and 6pm, not in groups, maintain social distancing.
 
@@ -28,7 +28,7 @@ No. Still not allowed. Limit of 50 people at
 
 <!-- more -->
 
-**Church?***
+**Church?**
 
 Yes. Maximum of 50 people, wearing face maskss, maintaining social distance, only after proper cleaning and sanitising after every service.
 
