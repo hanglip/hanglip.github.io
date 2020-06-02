@@ -5,9 +5,9 @@
 ;; in frog/params.
 (define/contract (init)
   (-> any)
-  (current-scheme/host "http://www.hanglip.org")
+  (current-scheme/host "https://hanglip.github.io")
   (current-title "Hanglip Associates Blog")
-  (current-author "SM Osler"))
+  (current-author "The Hanglip Bloggers"))
 
 ;; Called once per post and non-post page, on the contents.
 (define/contract (enhance-body xs)

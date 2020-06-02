@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">Hanglip Associates Blog: Posts tagged 'Working Words'</title>
- <link rel="self" href="http://www.hanglip.org/feeds\Working-Words.atom.xml" />
- <link href="http://www.hanglip.org/tags\Working-Words.html" />
- <id>urn:http-www-hanglip-org:-tags-Working-Words-html</id>
+ <link rel="self" href="https://hanglip.github.io/feeds\Working-Words.atom.xml" />
+ <link href="https://hanglip.github.io/tags\Working-Words.html" />
+ <id>urn:https-hanglip-github-io:-tags-Working-Words-html</id>
  <updated>2020-05-25T12:41:58Z</updated>
  <entry>
   <title type="text">Work Semantics</title>
-  <link rel="alternate" href="http://www.hanglip.org/2020\05\work-semantics.html?utm_source=Working-Words&amp;utm_medium=Atom" />
-  <id>urn:http-www-hanglip-org:-2020-05-work-semantics-html</id>
+  <link rel="alternate" href="https://hanglip.github.io/2020\05\work-semantics.html?utm_source=Working-Words&amp;utm_medium=Atom" />
+  <id>urn:https-hanglip-github-io:-2020-05-work-semantics-html</id>
   <published>2020-05-25T12:41:58Z</published>
   <updated>2020-05-25T12:41:58Z</updated>
   <author>
-   <name>SM Osler</name></author>
+   <name>The Hanglip Bloggers</name></author>
   <content type="html">
 &lt;h1 id="do-or-give-worker-semantics"&gt;DO or GIVE: &amp;ldquo;WORKER&amp;rdquo; SEMANTICS&lt;/h1&gt;
 
@@ -22,4 +22,4 @@
 
 &lt;p&gt;For a long time, managers came from the ranks - after proving themselves &amp;ldquo;on the job&amp;rdquo;. That didn&amp;rsquo;t always make them good managers (see Dr Laurence J Peter, &lt;strong&gt;The Peter Principle&lt;/strong&gt;). However, they were more effective than now in one sense: they were not asking others to do something they themselves could not do.&lt;/p&gt;
 
-&lt;p&gt;When managers were no longer expected to perform what they expected from others, but rather &amp;ldquo;specialise&amp;rdquo; in management, respect was lost and it all began to unravel. It is difficult to respect someone who can&amp;rsquo;t do what s/he is asking you to do.&lt;/p&gt;&lt;a href="http://www.hanglip.org/2020\05\work-semantics.html?utm_source=Working-Words&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
+&lt;p&gt;When managers were no longer expected to perform what they expected from others, but rather &amp;ldquo;specialise&amp;rdquo; in management, respect was lost and it all began to unravel. It is difficult to respect someone who can&amp;rsquo;t do what s/he is asking you to do.&lt;/p&gt;&lt;a href="https://hanglip.github.io/2020\05\work-semantics.html?utm_source=Working-Words&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>

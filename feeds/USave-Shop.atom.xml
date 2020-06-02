@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">Hanglip Associates Blog: Posts tagged 'USave Shop'</title>
- <link rel="self" href="http://www.hanglip.org/feeds\USave-Shop.atom.xml" />
- <link href="http://www.hanglip.org/tags\USave-Shop.html" />
- <id>urn:http-www-hanglip-org:-tags-USave-Shop-html</id>
+ <link rel="self" href="https://hanglip.github.io/feeds\USave-Shop.atom.xml" />
+ <link href="https://hanglip.github.io/tags\USave-Shop.html" />
+ <id>urn:https-hanglip-github-io:-tags-USave-Shop-html</id>
  <updated>2020-05-26T12:40:17Z</updated>
  <entry>
   <title type="text">USave</title>
-  <link rel="alternate" href="http://www.hanglip.org/2020\05\usave.html?utm_source=USave-Shop&amp;utm_medium=Atom" />
-  <id>urn:http-www-hanglip-org:-2020-05-usave-html</id>
+  <link rel="alternate" href="https://hanglip.github.io/2020\05\usave.html?utm_source=USave-Shop&amp;utm_medium=Atom" />
+  <id>urn:https-hanglip-github-io:-2020-05-usave-html</id>
   <published>2020-05-26T12:40:17Z</published>
   <updated>2020-05-26T12:40:17Z</updated>
   <author>
-   <name>SM Osler</name></author>
+   <name>The Hanglip Bloggers</name></author>
   <content type="html">
 &lt;h2 id="usave"&gt;USAVE&lt;/h2&gt;
 
@@ -21,4 +21,4 @@
 &lt;p&gt;&lt;img src="/img/USaveBus1.jpg" style="width:100%" /&gt;
  &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Here we go &amp;hellip;&lt;/p&gt;&lt;a href="http://www.hanglip.org/2020\05\usave.html?utm_source=USave-Shop&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
+&lt;p&gt;Here we go &amp;hellip;&lt;/p&gt;&lt;a href="https://hanglip.github.io/2020\05\usave.html?utm_source=USave-Shop&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
