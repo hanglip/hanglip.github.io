@@ -5,9 +5,6 @@
 <a href="#toverstok">Toverstok</a><br>
 <a href="#deadtech">Dead Tech</a><br>
 
-<!-->
-<a href="#birdsong">Birdsong</a>
--->
 
 ## ***W***ild ***I***deas: 
 
@@ -75,9 +72,6 @@ Combustive efficiency isn't always the sole criterion. For example, during apart
 Well, we will never see this steam engine, no matter how efficient.  The world is moving to batteries, and our Elon Musk now claims his Tesla ones are good for two millions miles. Everything is going toward battery power.
 
 <!--
-<a name= "birdsong"></a>
-
-
 
 ## COMPARISON BUILD: POLES vs FINNBUILDER
 
