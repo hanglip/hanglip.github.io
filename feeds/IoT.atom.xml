@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+ <title type="text">Hanglip Associates Blog: Posts tagged 'IoT'</title>
+ <link rel="self" href="https://hanglip.github.io/feeds\IoT.atom.xml" />
+ <link href="https://hanglip.github.io/tags\IoT.html" />
+ <id>urn:https-hanglip-github-io:-tags-IoT-html</id>
+ <updated>2020-06-10T14:08:41Z</updated>
+ <entry>
+  <title type="text">Geekfontein</title>
+  <link rel="alternate" href="https://hanglip.github.io/2020\06\geekfontein.html?utm_source=IoT&amp;utm_medium=Atom" />
+  <id>urn:https-hanglip-github-io:-2020-06-geekfontein-html</id>
+  <published>2020-06-10T14:08:41Z</published>
+  <updated>2020-06-10T14:08:41Z</updated>
+  <author>
+   <name>The Hanglip Bloggers</name></author>
+  <content type="html">
+&lt;p&gt;You may wonder, is there a point to geeking away on a PC with something so tradition-bound as farming? Well, you were warned.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/e7qQ6_RV4VQ?start=120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you haven&amp;rsquo;t yet, just Google &amp;ldquo;SpaceX Starlink&amp;rdquo;. Elon Musk plans to clad the entire world in a shawl of low altitude satellites, beaming cheap, fast-enough internet access to every koppie and cave on the globe. This means that the &lt;strong&gt;Internet of  Things (IoT)&lt;/strong&gt; will become a reality &lt;em&gt;everywhere&lt;/em&gt;, so that given the right equipment (already long available to the connected world), we farmers can check the water level in a livestock drinking crib on the other side of a koppie kilometres away - on our phones. How great is that? It&amp;rsquo;s appalling to think of a sheep dying of thirst, and failing water supply is a really good way for a farm to go belly up.&lt;/p&gt;
+
+&lt;p&gt;With the phone app &lt;strong&gt;what3words&lt;/strong&gt;, furthermore, we can direct someone to that crib, accurate to 3 metres. Even a complete newcomer to the area can locate anything (like rock art) using the same app. Just &amp;hellip; not without internet or cell reach. Jasper&amp;rsquo;s daughter is a controller in emergeny services in Cambridgeshire, England, and that app is used by their emergency crews (it&amp;rsquo;s world wide, too) to pinpoint emergencies phoned in by people. How often have you phoned in, stumped by exactly where you are in the world. &amp;ldquo;Erm, I&amp;rsquo;m - there&amp;rsquo;s an intersection and a shop called &amp;lsquo;Corner Shop&amp;rsquo;&amp;rdquo;. With the app you give them three words and they know to within 3 metres where to find you, anywhere in the world.&lt;/p&gt;&lt;a href="https://hanglip.github.io/2020\06\geekfontein.html?utm_source=IoT&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry></feed>
