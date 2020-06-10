@@ -13,7 +13,7 @@ With the phone app **what3words**, furthermore, we can direct someone to that cr
 
 <!-- more -->
 
-Mr Musk is fairly impatient to get Starlink going, because for him it will be a $30Bn cash cow to supply money for his other space ventures. So, I would start preparing myself: agriculture has fared alright under the lockdown, but look at all the opportunities coming our way with these delelopments! It's not about replacing labour, it's about them applying special human talents to things that machines can't do. He is looking at Starlink happening by year-end in Trump-land and Canada, spreading elsewhere next year. 
+Mr Musk is fairly impatient to get Starlink going, because for him it will be a $30Bn cash cow to supply money for his other space ventures. So, I would start preparing myself: agriculture has been alright under lockdown, but look at all the opportunities coming our way with these developments! It's not about replacing labour, it's about them applying special human talents to things that machines can't do. He is looking at Starlink happening by year-end in Trump-land and Canada, spreading elsewhere next year. 
 
 Some previously unknown things are going on on farms all over the connected world. NZ and Oz farmers are using drones instead of sheepdogs to herd sheep. A drone mayt cost a bit, but "training' then is quick and cheap and training sheep dogs isn't cheap or quick. What will come along next? Sheep are being counted by drone apps! Unmanned carts take feed to livestock. Drones fly above crops taking infra-red images to pick up weak fertility and diseased patches.  
 
