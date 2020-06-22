@@ -2,7 +2,7 @@
     Date: 2020-06-11T09:48:41
     Tags: New trades
 
-<img src="/img/Ayabonga.jpg" alt="Drawing" style="width: 400px;"/>  
+<img src="/img/Ayabonga.jpg" alt="Drawing" style="width: 100%;"/>  
 
 Ayabonga with sheep and implements, destined for his mother in Eastern Cape. 
 
