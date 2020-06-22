@@ -1,6 +1,8 @@
     Title: Geekfontein
     Date: 2020-06-10T16:08:41
-    Tags: what3words, Starlink, IoT
+    Tags: DRAFT
+    
+    what3words, Starlink, IoT
 
 You may wonder, is there a point to geeking away on a PC with something so tradition-bound as farming? Well, you were warned.
 
