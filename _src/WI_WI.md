@@ -4,7 +4,7 @@
 <a href="#foodsecurity">Food Security</a><br>
 <a href="#toverstok">Toverstok</a><br>
 <a href="#deadtech">Dead Tech</a><br>
-
+<a href="#prudence">PRUdence</a><br>
 
 ## ***W***ild ***I***deas: 
 
@@ -69,7 +69,31 @@ Interestingly, this Closed Loop design can be developed for a paltry cost of onl
 
 Combustive efficiency isn't always the sole criterion. For example, during apartheid, there was a call for return to steam power, because South Africa does not have oil. All of it was imported, and (especially under sanctions) this caused a vulnerability in terms of foreign exchange. We no longer have sanctions, but we still have foreign exchange vulnerability. Especially when we suffer from office bearers who wheel and deal to fill their own back pockets, to the point that one sold our entire nations's strategic stockpile of fuel in a day. Why? _Because S/he Could_. Despite this act of economic sabotage, s/he still walks free.
 
-Well, we will never see this steam engine, no matter how efficient.  The world is moving to batteries, and our Elon Musk now claims his Tesla ones are good for two millions miles. Everything is going toward battery power.
+Well, we will never see this steam engine, no matter how efficient.  The world is moving to batteries, and our Elon Musk now claims his Tesla ones are good for two million miles. Everything is going toward battery power.
+
+<a name= "prudence"></a>
+
+# PRU
+
+## Pandemic Retreat Unit
+
+To retreat from the city in times of pandemic, like now, what would we want, by way of a minimum living unit, but one that ticks off all the boxes in terms of SDGs and going green generally? We think the following, but invite suggestions. 
+
+We think the minimums are
+
++ Internet
++ Waterless toilet
++ Solar Electricity
++ Back up generator
++ Solar Water Heating
++ Hydroponic salad & Vegetable garden
++ Passive Cooling/Heating
++ local building materials
++ Tree shade
++ Flower Garden
++ Lean-to (or better) car shelter
+
+**What (else) would you like if you packed your car and fled the pandemic and/or city for a while?**
 
 <!--
 
