@@ -1,6 +1,6 @@
     Title: NY Progressive Left
     Date: 2020-06-26T12:20:37
-    Tags: AOC, Brown, Jones
+    Tags: DRAFT
 
 Three delegates, known by now to be of the so-called "Progressive Left" in the US, scored huge victories in their areas in last weeks's elections in the US. AOC (Alexandria Occasio-Cortez) was a surprise victor against a 14 term senior Democrat two years ago. Other "Young Turks have made the cut since her: Omar, Bowman and James.
 
