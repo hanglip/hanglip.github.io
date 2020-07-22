@@ -14,7 +14,7 @@ SO WHAT ... is NEW? Some answers:
 + Savings
 + Unforeseens
 
-### Simplicity
+**Simplicity**
 
 Elon Musk wants everyone to have internet. For a start, there is no such thing as a Tesla car without internet. They get, and need, updates almost constantly. So Musk says these Starlink antennae will not need specialists to install them. Anyone will be able to.
 
@@ -24,7 +24,7 @@ Simple electricity and internet installations are the way to go, and DIY power g
 
 <!-- more -->
 
-### Savings
+**Savings**
 
 In our rural situation, this means that any farmer can have very (rather **unbelievably**) fast internet access for the same price or less than now. We will stil need people to climb koppies to erect things, but they won't need to be tech-savvy digital experts.
 
@@ -32,7 +32,7 @@ Some geeky farmers may want to make money by becoming IPs (Internet Providers) f
 
 Unless one considers the option  of the currently very expensive available satellite internet options, Internet has had to be beamed from a copper (think ADSL) or fibre connection, and those are usually found only in towns. Starlink is the first reasonably priced option to share internet **cheaply, rurally**. 
 
-### Unforeseeables
+**Unforeseeables**
 
 Who knows what people will cook up? There will be far easier and cheaper IoT (Internet of Things), including much easier  and better feedback from:
 
@@ -59,7 +59,7 @@ There will also be new or better opportunities for :
 + home schooling
 + cultural & eco tourism (**What3Words** will allow every tiny rock carving or painting to be easily located, once identified on the app)
 
-### And more ...
+**And more ...**
 
 Think of a phone, filming a herd of sheep urged through a race for counting. Counting sheep is difficult. We could watch those sheep from a stoep, re-run the movie clip, stepping through it and counting the sheep with less likelihood of mistakes, at morning coffee time. 
 
