@@ -4,7 +4,36 @@
  <link rel="self" href="https://hanglip.github.io/feeds\all.atom.xml" />
  <link href="https://hanglip.github.io/index.html" />
  <id>urn:https-hanglip-github-io:-index-html</id>
- <updated>2020-06-11T07:48:41Z</updated>
+ <updated>2020-07-19T12:20:33Z</updated>
+ <entry>
+  <title type="text">SpaceX Starlink</title>
+  <link rel="alternate" href="https://hanglip.github.io/2020\07\spacex-starlink.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:https-hanglip-github-io:-2020-07-spacex-starlink-html</id>
+  <published>2020-07-19T12:20:33Z</published>
+  <updated>2020-07-19T12:20:33Z</updated>
+  <author>
+   <name>The Hanglip Bloggers</name></author>
+  <content type="html">
+&lt;p&gt;More details are emerging about Elon Musk&amp;rsquo;s Starlink. You may want to install one of these (from SpaceX) on your nearby koppie:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/img/StarlinkAnt.jpg" alt="Drawing" style="width: 500 pixels;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;It appears they will supply a dish to Beta users who sign up for the test period. Cost of dish/antenna is not yet clear. Charge for internet usage is around $149 per year. That&amp;rsquo;s about R2.5k pa or R210 pm. A dish on a high koppie (with a much smaller dinner plate sized) node pointing at a receiver on a high point, for example on the roof of a dwelling, will enable 1GB/Sec download (eg an an entire 90 min Hollywood feature movie &lt;strong&gt;inside three minutes&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;SO WHAT &amp;hellip; is NEW? Some answers:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li&gt;Simplicity&lt;/li&gt;
+ &lt;li&gt;Savings&lt;/li&gt;
+ &lt;li&gt;Unforeseens&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="simplicity"&gt;Simplicity&lt;/h3&gt;
+
+&lt;p&gt;Elon Musk wants everyone to have internet. For a start, there is no such thing as a Tesla car without internet. They get, and need, updates almost constantly. So Musk says these Starlink antennae will not need specialists to install them. Anyone will be able to.&lt;/p&gt;
+
+&lt;p&gt;Secondly, Tesla sells roofing tiles that collect solar electriciy, and batteries that store it. This will become more common. In South Africa, that means (since Eskom has largely killed itself of as a trustworthy supplier) more and more farmers are going to wean their farms off Eskom, at least in terms of supply to their dwellings. The first thing a criminal wants is to disable your power so you can&amp;rsquo;t get help, so generating your own at your house rules out the bad guys cutting off supply from down the road somewhwere.&lt;/p&gt;
+
+&lt;p&gt;Simple electricity and internet installations are the way to go, and DIY power generation will become the norm on farms where 3-phase is not needed for heavy machinery plants.&lt;/p&gt;&lt;a href="https://hanglip.github.io/2020\07\spacex-starlink.html?utm_source=all&amp;amp;utm_medium=Atom"&gt;&lt;em&gt;More&amp;hellip;&lt;/em&gt;&lt;/a&gt;</content></entry>
  <entry>
   <title type="text">Implements &amp; Sheep</title>
   <link rel="alternate" href="https://hanglip.github.io/2020\06\implements-sheep.html?utm_source=all&amp;utm_medium=Atom" />
