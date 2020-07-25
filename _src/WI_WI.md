@@ -116,7 +116,7 @@ A pacifist (jailed for this on return to Cambridge after working for six months 
 
 <!-- more -->
 
-There were 16000 consientrious objectors in Britain in WWI. It was a tough choice: jail or army. For example, in South Africa (where 286 served sentences under apartheid for refusing to go to war), the jail term was three times longer than military service itself. This means there must have been some who did not believe in fighting, but did so to get it over with quicker. Some must surely have died for that choice.
+There were 16000 conscientious objectors in Britain in WWI. It was a tough choice: jail or army. For example, in South Africa (where 286 served sentences under apartheid for refusing to go to war), the jail term was three times longer than military service itself. This means there must have been some who did not believe in fighting, but did so to get it over with quicker. Some must surely have died for that choice.
 
 Hogben died 45 years ago in 1975, so the quote is possibly half a century old. If we asked (in January this year, before the pandemic) "**are banks essential?**", we think most would answer something like "Of course" or "what kind of a question is that?". Now, things are different. If we ask "How many times since March have you been into a bank?" the answer surely will not be "often". So, are bankers necessary? 
 
