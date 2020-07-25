@@ -100,7 +100,11 @@ We think the minimums are
 
 ## BANKLESS
 
-In the 1930s, Lancelot Hogben, described by [Wikipedia](https://en.wikipedia.org/wiki/Lancelot_Hogben) as a statistician and experimental zoologist, took the chair of Zoology at UCT. He was (incorrecty?) credited with discovery of a pregnancy test based on research done on the Xenopus frog. 
+In the 1930s, Lancelot Hogben, described by [Wikipedia](https://en.wikipedia.org/wiki/Lancelot_Hogben) 
+
+<img src="/img/hogben.jpg" alt="Drawing" style="width: 400px;"/>  
+
+as a statistician and experimental zoologist, took the chair of Zoology at UCT. He was (incorrecty?) credited with discovery of a pregnancy test based on research done on the Xenopus frog. 
 
 Wikipedia says he found the job in South Africa attractive but
 
