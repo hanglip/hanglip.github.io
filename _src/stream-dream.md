@@ -1,4 +1,6 @@
-#  STREAM DREAM
+#  OORLOGSPOORT STREAM DREAM
+
+<a href="#minifarms">Mini-farms & Hectare Havens</a><br>
 
 ## Oorlogspoort River
 
@@ -43,4 +45,48 @@ Two generations back the first Hanglip windmill pumped from the stream into a ca
 
 There are two bridges, an old bridge and a newer, nearby higher ‘Schimper’ bridge – named after Maeder’s grandfather who once served on the then Divisional Council (a ‘bloedsap’ enthusiast)
 
+<a name="minifarms">Mini-farm & Hectare Haven Projects</a>
 
+<!--
+<a href="#sprouts">Sprouts</a><br>
+<a href="#quails">Quails</a><br>
+
+<a name="sprouts">Sprouted Barley</a>
+-->
+
+**Sprouted Barley**
+
+Sprouted barley underpins our small livestock programmes. It is palatable to all farm animals, and easy to produce. Supported with dry matter where necessary, this is in itself a job incubator.
+
+<!--
+<a name="quails">Quails for eggs & meat</a>
+
+-->
+
+**Quails**
+
+A single quail is an ideal portion of protein. Quails grow quickly, so to produce a daily batch of quail for school meals, one needs to begin only 6 weeks before shcool term starts, and keep them coming alon.
+
+**Chickens**
+
+Hardy indigenous chickens can fly and perch out of range of predators. They don't need fancy housing. If allowed to raom an area of veld, they can largely forage for themselves, though we would provide barley sprouts. 
+
+This kind of free-range could extend to a compost operation: we've seen lines of compost turned over (by shobel or earth mover, depending on scale) and banked up, ready for ckickens to scratch in for grubs, and level them for the next "turn and bank".
+
+**Goats**
+
+This riverine area should suit goats, with enough ***bloubos*** and ***taaibos*** for browsing to keep them fed for some time. In fact, the whole riverine area could be turned over to goats, given investments in fencing (goats are wily, adventurous & difficult to contain) & goat housing. Previous experience was that many goats had triplets, with a general very good kidding rate.
+
+
+**Pigs**
+
+A breeding pair in each unit could provide as many as ten fattened piglets in a growing season. Pigs will take barley sprouts and will thrive on skimmed mild.
+
+
+**Dairy**
+
+There is plenty of dry matter here. Supplementary feed with barley sprouts will ensure an improved mild return, providing milk for a local feeding scheme, skimmed milk for pigs, and cream for butter.
+
+**Solar**
+
+As covered in a blog post, PV cells have greatly reduced in price over ten years. With our sunshine, solar arrays could scaled from small to huge, from powering electric hences to powering housing, Bitcoin mining rigs and solar arrays for sale to the grid.
