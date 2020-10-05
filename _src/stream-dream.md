@@ -65,7 +65,7 @@ Sprouted barley underpins our small livestock programmes. It is palatable to all
 
 **Quails**
 
-A single quail is an ideal portion of protein. Quails grow quickly, so to produce a daily batch of quail for school meals, one needs to begin only 6 weeks before shcool term starts, and keep them coming alon.
+A single quail is an ideal portion of protein. Quails grow quickly, so to produce a daily batch of quail for school meals, one needs to begin only 6 weeks before shcool term starts, and keep them coming along. Profit on a single quail at 12 weeks is around R20: worth it if one can sell more than 20 dressed birds per week, with a "win" for creating a job!
 
 **Chickens**
 
@@ -90,3 +90,5 @@ There is plenty of dry matter here. Supplementary feed with barley sprouts will 
 **Solar**
 
 As covered in a blog post, PV cells have greatly reduced in price over ten years. With our sunshine, solar arrays could scaled from small to huge, from powering electric hences to powering housing, Bitcoin mining rigs and solar arrays for sale to the grid.
+
+**Pandemic Retreat Unit**
