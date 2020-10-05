@@ -45,7 +45,7 @@ Two generations back the first Hanglip windmill pumped from the stream into a ca
 
 There are two bridges, an old bridge and a newer, nearby higher ‘Schimper’ bridge – named after Maeder’s grandfather who once served on the then Divisional Council (a ‘bloedsap’ enthusiast)
 
-<a name="minifarms">Mini-farm & Hectare Haven Projects</a>
+<a name="minifarms">**Mini-farm & Hectare Haven Projects**</a>
 
 <!--
 <a href="#sprouts">Sprouts</a><br>
