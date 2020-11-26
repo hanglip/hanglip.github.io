@@ -63,6 +63,18 @@ Sprouted barley underpins our small livestock programmes. It is palatable to all
 
 -->
 
+## BINARY SEASONAL: Ho/Cold, On/Off
+
+The riverine area as a whole is an icy microclimate in winter, unsuited to growing plants and especially unsuited for natural animal care. It is just too cold to fatten animals without housing. Providing animal housing is counter-natural and expensive. For this reason, we contemplate riverine schemes as summer season enterprises only, as a line of least resistance. Winter is thus a slow season, reserved for preparation and maintenance. Trees, for example, need watering for their first two years. It goes without saying that some trees will not survive the frost (even hardy **spekbook** will not grow near the river, though it grows fine in pots if sheltered in winter).
+
+With animal housing, we can arguably raise livestock year-round: barley sprouts are grown hydroponically, enabling year round green feeding. However, this is something an associate would be prepared to invest in: we do not plan to build anything without financial input.
+
+## Markets
+
+Notwithstanding our position on summer only developments, the market forces us to think again. A school feedding scheme demanding milk and protein, is not a summer-only thing. To retain such a market implies year round supplies. We can approach this two ways: by changing our own strategy, or by hooking up with a partner from another region who can farm winter products that we can't. That involves logistics: they would have to transport foodstuffs from their area to ours. Transport introduces a new point of failure. Extreme weather, vehicle failure, pandemics and unforeseeables can cause interruption.
+
+
+
 **Quails**
 
 A single quail is an ideal portion of protein. Quails grow quickly, so to produce a daily batch of quail for school meals, one needs to begin only 6 weeks before shcool term starts, and keep them coming along. Profit on a single quail at 12 weeks is around R20: worth it if one can sell more than 20 dressed birds per week, with a "win" for creating a job!
@@ -85,7 +97,13 @@ A breeding pair in each unit could provide as many as ten fattened piglets in a 
 
 **Dairy**
 
-There is plenty of dry matter here. Supplementary feed with barley sprouts will ensure an improved mild return, providing milk for a local feeding scheme, skimmed milk for pigs, and cream for butter.
+
+There is plenty of dry matter here. Supplementary feed with barley sprouts will ensure an improved milk return, providing milk for a local feeding scheme, skimmed milk for pigs, and cream for butter. We use our butter for baking.
+
+**Bees**
+
+Pollinators are endangered! The planet needs our help. We need to include bees in our plans, placing them in convenient positions.By product is honey of course, and more, depending how involved we want to get. We are happy just to host them as pollinators, but will also gladly accommodate full-on beekeepers.
+
 
 **Solar**
 
