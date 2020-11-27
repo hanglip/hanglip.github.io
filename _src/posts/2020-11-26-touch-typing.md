@@ -14,12 +14,15 @@ From [Daily Maverick](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgx
 
 Last week learners Aviwe and Michelle accepted a challenge to achieve 20 words per minute in two weeks. Here they are, seated at the shearing shed (learning centre) PC, ready to go.
 
-<img src="/img/TuxAviwe30pcc.jpg" alt="Drawing" style="  width: 300px;"/>  
-
+<img src="/img/TuxAviwe30pcc.jpg" 
+alt="Drawing" 
+align="leftt"
+style=" width: 300px;">  <img src="/img/TuxMichelle30pc.jpg" 
+ alt="Drawing"
+ align="middle"
+ style=" width: 300px;">
+ 
 <!-- more -->
-
- <img src="/img/TuxMichelle30pc.jpg" alt="Drawing"
- style=" width: 300px;"/>
 
  This was sparked off by the same view set out in DM's article: Covid-19 has changed everything. It has been said elsewhere in this blog that learners will eventually learn to prepare HTML documents. Word processors like Microsoft Word, Word Perfect (anyone remember that? It was better than Word by far, and  version 5.1 was so good, it  was used to typeset Toverberg Indaba) and LibreOffice Write will be quietly shoved aside, and learners will soon be asked to produce digital documents. It follows that soon after that, they will start to save these on web pages provided on a school server. 
 
