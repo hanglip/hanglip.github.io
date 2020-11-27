@@ -12,7 +12,7 @@ From [Daily Maverick](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgx
 
 >__Like it or not, this was always where the future was going, it just arrived with a crash, not a whimper.__
 
-Last week learners Aviwe and Michelle accepted a challenge to achieve 20 words per minute in two weeks. Here they are, seated at the shearing shed (learning centre) PC, ready to go.
+Last week learners Aviwe and Michelle accepted a challenge to achieve 20 words per minute in two weeks. Here they are, ready to go with Tux Typing on our Ubuntu Linux PC.
 
 <img src="/img/TuxAviwe30pcc.jpg" 
 alt="Drawing" 
@@ -36,6 +36,6 @@ style=" width: 300px;">  <img src="/img/TuxMichelle30pc.jpg"
 
  This blog post is created in [**Markdown**](https://en.wikipedia.org/wiki/Markdown#:~:text=Markdown%20is%20a%20lightweight%20markup,using%20a%20plain%20text%20editor.), a document formatting method that is very easy to learn. It is converted automatically to HTML by our blogging platform. School learners learn Markdown in a few mornings, and are comfortable with it within a week. Markdown converters are all over the web, and most programming languages have a library that can easily be imported to do the job. YouTube has many clips about Markdown. 
  
- We think touch typing and Markdown is the way things will go, and that's why we started this challenge.
+ We think touch typing and Markdown is the way things will go, and that's why we started this challenge. Bottom line is: smartphones are consumer devices. They are good for response, but not preparation or development. The smallest device convenient for real work is a tablet, unless the long expected phone docks take off, where one will dock a smartphone into a screen and keyboard setup. Voice typing is very good these days, but a keyboard is a must for editing.  
 
 
