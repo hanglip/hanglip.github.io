@@ -4,7 +4,7 @@
 
 # HERBY CHRISTMAS
 
-Jasper packed a large bunch of *Artemisia Afra* for his Christmas holiday in Johannesburg. He and his daughter Shashi. Here are the resulting Christmas gifts:
+Jasper packed a large bunch of *Artemisia Afra* for his Christmas holiday in Johannesburg. He and his daughter Shashi repacked into the resulting Christmas gifts:
 
 ![Artemesia Afra](/img/ArtemisiaGifts.png)
 
