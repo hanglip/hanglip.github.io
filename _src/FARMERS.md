@@ -5,7 +5,7 @@
 <a href="#nicholasallens">Nicholas Allens</a><br>
 <a href="#jaspercook">Jasper Cook</a><br>
 <a href="#dawidallens">Dawid Allens</a><br>
-<a href="#zolityobeka">Zolile Tyobeka</a><br>
+
 
 <a name="maederoslerowner"></a>
 
@@ -175,16 +175,6 @@ ____
 ### DAWID ALLENS
 
 **Q & A with Dawid Allens**
-
-(Coming soon)
-  
-____
-
-<a name="zolityobeka"></a>
-
-### ZOLILE TYOBEKA
-
-**Q & A with Zolile Tyobeka**
 
 (Coming soon)
   
